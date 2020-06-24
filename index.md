@@ -4,7 +4,7 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 
 ## Current Projects
 
-- Coming soon.
+- Coming soon..
 
 ## Former Projects
 
