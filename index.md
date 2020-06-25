@@ -1,20 +1,22 @@
 ## Short Bio
 
-Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal (Montréal, QC, Canada). He received the M.Sc. degree in computer science from the University of Illinois at Chicago (Chicago, IL) in 2012, the Laurea Triennale degree in computer engineering from Politecnico di Milano (Milan, Italy) in 2009, and the Laurea Specialistica degree in computer engineering again from Politecnico di Milano (Milan, Italy) in 2011. In 2015, He was a visiting researcher at the National Institute of Informatics (Tokyo, Japan) and he attended the International Space University (ISU)'s Summer Study Program hosted by Ohio University (Athens, OH). In 2017, he served as a teaching associate for ISU at the Cork Institute of Technology (Cork, Ireland). In 2019, he was a visiting postdoctoral fellow at the European Astronaut Centre (Köln, Germany). Jacopo currently conducts post doctoral research at the University of Cambridge's Department of Computer Science and Technology. Jacopo's research interests include multi-robot systems, machine learning, probabilistic graphical models, artificial intelligence, human-robot interaction, real-time and embedded systems.
+Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal (Montréal, QC, Canada). He received the M.Sc. degree in computer science from the University of Illinois at Chicago (Chicago, IL) in 2012, the Laurea Triennale degree in computer engineering from Politecnico di Milano (Milan, Italy) in 2009, and the Laurea Specialistica degree in computer engineering again from Politecnico di Milano (Milan, Italy) in 2011. In 2015, He was a visiting researcher at the National Institute of Informatics (Tokyo, Japan) and he attended the International Space University (ISU)'s Summer Study Program hosted by Ohio University (Athens, OH). In 2017, he served as a teaching associate for ISU at the Cork Institute of Technology (Cork, Ireland). In 2019, he was a visiting postdoctoral fellow at the European Astronaut Centre (Köln, Germany) and a research associate at the University of Cambridge's (Cambridge, United Kingdom) Department of Computer Science and Technology. Jacopo is currently a postdoctoral fellow at the University of Toronto (Toronto, ON, Canada) Institute for Aerospace Studies. Jacopo's research interests include multi-robot systems, machine learning, probabilistic graphical models, artificial intelligence, and embedded systems.
 
-## Current Projects
+## Current Research
 
-- Coming soon..
+- Mitacs Elevate postdoctoral fellowship: [**Multi-agent reinforcement learning for decentralized UAV/UGV cooperative exploration**][elevate]. Over the last decade, artificial intelligence has flourished. From a research niche, it has been developed into a versatile tool, seemingly on route to bring automation into every aspect of human life. At the same time, robotics technology has also advanced significantly, and inexpensive multi-robot systems promise to accomplish all those tasks that require both physical parallelism and inherent fault tolerance—such as surveillance and extreme-environment exploration. Decentralized control laws are key to achieve reliability of these systems (as they eliminate the risks posed by single-points-of-failure). Yet, the effective synthesis of (i) machine learning, (ii) multi-robot approaches, and (iii) field robotics is no small task. Previous machine learning and distributed control research rarely ventures beyond computer simulations. GDLS-C and the University of Toronto are investigating how to effectively use multi-agent reinforcement learning in field robotics. GDLS-C's goal is to improve situational awareness of ground vehicles by using swarms of Unmanned Aerial Vehicles (UAV). Learning decentralized cooperation strategies will improve the resilience of these multi-robot systems—potentially faced with adversarial environments—and, ultimately, the safety of their human operators. Answering our research questions will also enable large collections of robots to learn how to interact with one another—beyond the point human designers can attain.
+
 
 ## Former Projects
 
-- Mitacs Globalink research at the University of Cambridge's [Prorok Laboratory][pl]: Privacy is an important facet of defence against adversaries. In this project, we introduced the problem of private flocking. We considered a team of mobile robots flocking in the presence of an adversary who is interested in identifying their leader. We developed a method to generate private flocking controllers that hide the identity of the leader robot. Our concurrent approach towards privacy improvement leverages machine learning and game theory. To evaluate the performance of our co-optimization scheme, we investigated different classes of reference trajectories for the robots. Although it is reasonable to assume that there is an inherent trade-off between flocking performance and privacy, our results demonstrate that we are able to achieve high flocking performance and simultaneously reduce the risk of revealing the leader. 
+- Mitacs Globalink research at the University of Cambridge's [Prorok Laboratory][pl] on **adversarial private flocking**. Privacy is an important facet of defence against adversaries. In this project, we introduced the problem of private flocking. We considered a team of mobile robots flocking in the presence of an adversary who is interested in identifying their leader. We developed a method to generate private flocking controllers that hide the identity of the leader robot. Our concurrent approach towards privacy improvement leverages machine learning and game theory. To evaluate the performance of our co-optimization scheme, we investigated different classes of reference trajectories for the robots. Although it is reasonable to assume that there is an inherent trade-off between flocking performance and privacy, our results demonstrate that we are able to achieve high flocking performance and simultaneously reduce the risk of revealing the leader. 
 - ESA's Networking/Partnering Initiative postdoctoral research: **A Symbiotic Human and Multi-Robot Planetary Exploration System**. The availability of next generation heavy launchers—such as NASA’s SLS and SpaceX’s Falcon Heavy—will enable new planetary exploration missions. Most space agencies are now targeting the Moon as the next step in exploration beyond LEO and many already have plans for precursor [robotic and human exploration][esa]. For example, ESA has championed the “Moon Village” concept since 2016 and NASA’s 2018 budget includes a Lunar Exploration Campaign. In this context, natural caves are appealing solutions to shelter humans and equipment for long-duration Lunar missions. In 2017, data from JAXA’s Kaguya probe revealed a 50km-long lava tube. For safety reasons, the preliminary robotic exploration of these tubes is imperative. Multi-robot systems carry the potential for greater efficiency and higher fault-tolerance, because of their ability to cooperate and inherent redundancy. Including humans into these systems is desirable to mitigate the complexity of the system but challenging at the interface level.
-- Jacopo's doctoral research focused on **Adaptive Computing System for Aerospace**: Today’s computer systems are growing more and more complex at an unmanageable pace, and space, in particular, represents a challenging environment for them. Self-adaptive computing carries unmatched potential and great promises for the creation of a new generation of smart, more reliable computers. Drawing from the fields of artificial intelligence, autonomic computing, and reconfigurable systems, we aim at developing self-adaptive computer systems for aerospace. Our goal is to improve efficiency, fault-tolerance, and computational capabilities of aerospace computer systems, allowing them to perform their tasks for longer periods of time, fostering simpler and cheaper space exploration.
+- Jacopo's doctoral research focused on **adaptive computing system for aerospace**. Today’s computer systems are growing more and more complex at an unmanageable pace, and space, in particular, represents a challenging environment for them. Self-adaptive computing carries unmatched potential and great promises for the creation of a new generation of smart, more reliable computers. Drawing from the fields of artificial intelligence, autonomic computing, and reconfigurable systems, we aim at developing self-adaptive computer systems for aerospace. Our goal is to improve efficiency, fault-tolerance, and computational capabilities of aerospace computer systems, allowing them to perform their tasks for longer periods of time, fostering simpler and cheaper space exploration.
 - From 2012 to 2017, Jacopo acted as the Command&Data-Handling team leader of the student society *Société Technique PolyOrbite* developing a 3U nanosatellite for the [Canadian Satellite Design Challenge][9] (CSDC), a Canada-wide competition for teams of university students. *PolyOrbite* obtained the 3rd overall place in the 2012-14 and 2014-16 editions of the CSDC, as well as the CSDC's Educational Outreach prize in 2016 [Website][6], [Facebook][7].
 
 ## Scholarship and Awards
 
+- In 2020, Jacopo's proposal on **deep reinforcement for UAV swarms** was selected for the [2020 Robotics: Science and Systems' Pioneers Workshop][rss].
 - In 2019, Jacopo was a visiting Postdoctoral Researcher at the University of Cambridge (UK) thanks to the Mitacs Globalink award.
 - In 2015, Jacopo was a visiting Ph.D. student at the [National Institute of Informatics][11] in Tokyo (Japan) thanks to the MOU grant program.
 - In 2014, Jacopo received the [Vanier Canada Graduate Scholarship][8] from the Natural Sciences and Engineering Research Council of Canada (NSERC).
@@ -27,6 +29,8 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 
 ## Select Publications
 
+- R. Mitchell, J. Fletcher, **J. Panerati**, and A. Prorok (2020) Multi-Vehicle Mixed-Reality Reinforcement Learning for Autonomous Multi-Lane Driving - International Conference on Autonomous Agents and Multiagent Systems
+- H. Zheng, **J. Panerati**, G. Beltrame, and A. Prorok (2020) An Adversarial Approach to Private Flocking in Mobile Robot Teams - IEEE Robotics and Automation Letters, Vol.5 no.2
 - D. St-Onge, M. Kaufmann, **J. Panerati**, B. Ramtoula, Y. Cao, E. B. J. Coffey, and G. Beltrame (2019) Planetary exploration with robot teams - IEEE Robotics & Automation Magazine
 - **J. Panerati**, M. A. Schnellmann, C. Patience, G. Beltrame, and G. S. Patience (2019) Experimental Methods in Chemical Engineering: Artificial Neural Networks—ANNs - The Canadian Journal of Chemical Engineering
 - **J. Panerati**, M. Minelli, C. Ghedini, L. Meyer, M. Kaufmann, L. Sabattini, and G. Beltrame (2019) *Robust Connectivity Maintenance for Fallible Robots* - Autonomous Robots 
@@ -46,8 +50,8 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 
 ## Contact Information and Links
 
-- Contact Jacopo by email: **jacopo {dot} panerati {at} polymtl {dot} ca**
-- Or find him on [GoogleScholar][2], [dblp][3], [ResearchGate][10], [Mendeley][13], [Scopus][14], [SemanticScholar][15], [GitHub][12], [LinkedIn][1].
+- Contact Jacopo by email: **jacopo {dot} panerati {at} utoronto {dot} ca**
+- Or find him on [LinkedIn][1], [GoogleScholar][2], [GitHub][12], [dblp][3], [ResearchGate][10], [Mendeley][13], [SemanticScholar][15], [Scopus][14].
 - [Resume][cv]
 
 
@@ -66,40 +70,9 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 [11]:http://research.nii.ac.jp/il/
 [9]:http://www.csdcms.ca/
 [4]:http://carabins.umontreal.ca/
-[cv]:https://www.dropbox.com/s/y6paghqhv2kkq3q/resume.pdf?dl=0
+[cv]:https://www.dropbox.com/s/s4hjfujbfujv951/resume.pdf?dl=0
 [pl]:https://www.proroklab.org
 [esa]:http://blogs.esa.int/caves/2018/12/04/a-swarm-of-drones/
-
----
-
-## Welcome to GitHub Pages
-
-This is a template running [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from Markdown content.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-[A second page](https://jacopopan.github.io/second-page)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+[el]:https://www.mitacs.ca/en/projects/multi-agent-reinforcement-learning-decentralized-uavugv-cooperative-exploration
+[rss]:https://sites.google.com/view/rsspioneers2020/participants?authuser=0
 
