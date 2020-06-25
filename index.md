@@ -16,7 +16,7 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 
 ## Scholarship and Awards
 
-- In 2020, Jacopo's proposal on **deep reinforcement for UAV swarms** was selected for the [2020 Robotics: Science and Systems' Pioneers Workshop][rss].
+- In 2020, Jacopo's proposal on **deep reinforcement for UAV swarms** was selected for the [Robotics: Science & Systems' Pioneers Workshop][rss].
 - In 2019, Jacopo was a visiting Postdoctoral Researcher at the University of Cambridge (UK) thanks to the Mitacs Globalink award.
 - In 2015, Jacopo was a visiting Ph.D. student at the [National Institute of Informatics][11] in Tokyo (Japan) thanks to the MOU grant program.
 - In 2014, Jacopo received the [Vanier Canada Graduate Scholarship][8] from the Natural Sciences and Engineering Research Council of Canada (NSERC).
@@ -50,7 +50,7 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 
 ## Contact Information and Links
 
-- Contact Jacopo by email: **jacopo {dot} panerati {at} utoronto {dot} ca**
+- Contact Jacopo: **jacopo {dot} panerati {at} utoronto {dot} ca**
 - Or find him on [LinkedIn][1], [GoogleScholar][2], [GitHub][12], [dblp][3], [ResearchGate][10], [Mendeley][13], [SemanticScholar][15], [Scopus][14].
 - [Resume][cv]
 
