@@ -77,7 +77,7 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 [11]:http://research.nii.ac.jp/il/
 [9]:http://www.csdcms.ca/
 [4]:http://carabins.umontreal.ca/
-[cv]:https://www.dropbox.com/s/bxqg15cj99vpkbp/resume.pdf?dl=0
+[cv]:https://www.dropbox.com/s/jnly6tqxkf7kxah/resume.pdf?dl=0
 [pl]:https://www.proroklab.org
 [esa]:http://blogs.esa.int/caves/2018/12/04/a-swarm-of-drones/
 [el]:https://www.mitacs.ca/en/projects/multi-agent-reinforcement-learning-decentralized-uavugv-cooperative-exploration
