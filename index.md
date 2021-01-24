@@ -31,6 +31,7 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 
 ## Teaching
 
+- At the University of Toronto: lab co-development for "AER1216, Fundamentals of Unmanned Aerial Vehicles Teaching".
 - At *Polytechnique Montréal*: laboratory assistant for *INF1600, Architecture des Micro-ordinateurs* and *AER8300, Informatique des Systèmes Spatiaux*.
 - For the International Space University: teaching associate for the team project "Entrepreneurial And Innovation Ecosystem For Space" at SSP17 in Cork, Ireland.
 
@@ -82,5 +83,5 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 [el]:https://www.mitacs.ca/en/projects/multi-agent-reinforcement-learning-decentralized-uavugv-cooperative-exploration
 [rss]:https://sites.google.com/view/rsspioneers2020/participants?authuser=0
 
-[cv]:https://www.dropbox.com/s/jnly6tqxkf7kxah/resume.pdf?dl=0
+[cv]:https://www.dropbox.com/s/h5z3bui9ccedxgd/resume.pdf?dl=0
 
