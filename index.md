@@ -83,5 +83,4 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 [el]:https://www.mitacs.ca/en/projects/multi-agent-reinforcement-learning-decentralized-uavugv-cooperative-exploration
 [rss]:https://sites.google.com/view/rsspioneers2020/participants?authuser=0
 
-[cv]:https://www.dropbox.com/s/h5z3bui9ccedxgd/resume.pdf?dl=0
-
+[cv]:https://www.dropbox.com/s/v6y3z1o64f3llya/cv.pdf?dl=0
