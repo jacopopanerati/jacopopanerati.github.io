@@ -37,6 +37,7 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 
 ## Select Publications
 
+- W. Zhao, **J. Panerati**, and A. P. Schoellig (2021) Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots - IEEE Robotics and Automation Letters
 - R. Mitchell, J. Fletcher, **J. Panerati**, and A. Prorok (2020) Multi-Vehicle Mixed-Reality Reinforcement Learning for Autonomous Multi-Lane Driving - International Conference on Autonomous Agents and Multiagent Systems
 - H. Zheng, **J. Panerati**, G. Beltrame, and A. Prorok (2020) An Adversarial Approach to Private Flocking in Mobile Robot Teams - IEEE Robotics and Automation Letters, Vol.5 no.2
 - D. St-Onge, M. Kaufmann, **J. Panerati**, B. Ramtoula, Y. Cao, E. B. J. Coffey, and G. Beltrame (2019) Planetary exploration with robot teams - IEEE Robotics & Automation Magazine
