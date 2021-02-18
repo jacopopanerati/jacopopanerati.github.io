@@ -37,11 +37,12 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 
 ## Select Publications
 
-- W. Zhao, **J. Panerati**, and A. P. Schoellig (2021) Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots - IEEE Robotics and Automation Letters
-- R. Mitchell, J. Fletcher, **J. Panerati**, and A. Prorok (2020) Multi-Vehicle Mixed-Reality Reinforcement Learning for Autonomous Multi-Lane Driving - International Conference on Autonomous Agents and Multiagent Systems
-- H. Zheng, **J. Panerati**, G. Beltrame, and A. Prorok (2020) An Adversarial Approach to Private Flocking in Mobile Robot Teams - IEEE Robotics and Automation Letters, Vol.5 no.2
-- D. St-Onge, M. Kaufmann, **J. Panerati**, B. Ramtoula, Y. Cao, E. B. J. Coffey, and G. Beltrame (2019) Planetary exploration with robot teams - IEEE Robotics & Automation Magazine
-- **J. Panerati**, M. A. Schnellmann, C. Patience, G. Beltrame, and G. S. Patience (2019) Experimental Methods in Chemical Engineering: Artificial Neural Networks—ANNs - The Canadian Journal of Chemical Engineering
+- W. Zhao, **J. Panerati**, and A. P. Schoellig (2021) *Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots* - IEEE Robotics and Automation Letters
+- **J. Panerati**, B. Ramtoula, D. St-Onge, Y. Cao, M. Kaufmann, A. Cowley, L. Sabattini, and G. Beltrame (2021) *On the Communication Requirements of Decentralized Connectivity Control - A Field Experiment* - 2021 International Symposium on Distributed Autonomous Robotic Systems
+- R. Mitchell, J. Fletcher, **J. Panerati**, and A. Prorok (2020) *Multi-Vehicle Mixed-Reality Reinforcement Learning for Autonomous Multi-Lane Driving* - International Conference on Autonomous Agents and Multiagent Systems
+- H. Zheng, **J. Panerati**, G. Beltrame, and A. Prorok (2020) *An Adversarial Approach to Private Flocking in Mobile Robot Teams* - IEEE Robotics and Automation Letters, Vol.5 no.2
+- D. St-Onge, M. Kaufmann, **J. Panerati**, B. Ramtoula, Y. Cao, E. B. J. Coffey, and G. Beltrame (2019) *Planetary exploration with robot teams* - IEEE Robotics & Automation Magazine
+- **J. Panerati**, M. A. Schnellmann, C. Patience, G. Beltrame, and G. S. Patience (2019) *Experimental Methods in Chemical Engineering: Artificial Neural Networks—ANNs* - The Canadian Journal of Chemical Engineering
 - **J. Panerati**, M. Minelli, C. Ghedini, L. Meyer, M. Kaufmann, L. Sabattini, and G. Beltrame (2019) *Robust Connectivity Maintenance for Fallible Robots* - Autonomous Robots 
 - **J. Panerati**, N. Schwind, S. Zeltner, K. Inoue, and G. Beltrame (2018) *Assessing the Resilience of Stochastic Dynamic Systems under Partial Observability* - PLOS ONE 
 - M. Minelli, M. Kaufmann, **J. Panerati**, C. Ghedini, G. Beltrame, and L. Sabattini (2018) *Stop, Think, and Roll: Online Gain Optimization for Resilient Multi-robot Topologies* - 2018 International Symposium on Distributed Autonomous Robotic Systems
