@@ -90,4 +90,4 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 [el]:https://www.mitacs.ca/en/projects/multi-agent-reinforcement-learning-decentralized-uavugv-cooperative-exploration
 [rss]:https://sites.google.com/view/rsspioneers2020/participants?authuser=0
 
-[cv]:https://www.dropbox.com/s/q6072mjm56wt7aa/cv.pdf?dl=0
+[cv]:https://www.dropbox.com/s/fufcse5mw3d184a/cv.pdf?dl=0
