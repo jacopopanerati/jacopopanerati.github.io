@@ -41,6 +41,7 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Select Publications
 
+- L. Brunke, M. Greeff, A. W. Hall, Z. Yuan, S. Zhou, **J. Panerati**, and A. P. Schoellig (2021) *Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning*, Annual Reviews of Control, Robotics, and Autonomous Systems
 - **J. Panerati**, H. Zheng, S. Zhou, J. Xu, A. Prorok, and A. P. Schoellig (2021) *Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control*, International Conference on Intelligent Robots and Systems
 - W. Zhao, **J. Panerati**, and A. P. Schoellig (2021) *Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots* - IEEE Robotics and Automation Letters
 - **J. Panerati**, B. Ramtoula, D. St-Onge, Y. Cao, M. Kaufmann, A. Cowley, L. Sabattini, and G. Beltrame (2021) *On the Communication Requirements of Decentralized Connectivity Control - A Field Experiment* - 2021 International Symposium on Distributed Autonomous Robotic Systems
