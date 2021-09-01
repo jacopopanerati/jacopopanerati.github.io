@@ -67,7 +67,7 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 ## Contact Information and Links
 
 - Contact Jacopo: **jacopo {dot} panerati {at} utoronto {dot} ca**
-- Or find Jacopo on [LinkedIn][1], [GoogleScholar][2], [GitHub][12], [dblp][3], [ResearchGate][10], [Mendeley][13], [SemanticScholar][15], [Scopus][14].
+- Or find Jacopo on [LinkedIn][1], [GoogleScholar][2], [GitHub][12], [dblp][3], [ResearchGate][10], [ORCID][13], [SemanticScholar][15], [Scopus][14].
 - [Resume][cv]
 
 
@@ -77,7 +77,7 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 [3]:http://www.informatik.uni-trier.de/~ley/pers/hy/p/Panerati:Jacopo.html
 [10]:https://www.researchgate.net/profile/Jacopo_Panerati
 [12]:https://github.com/jacopopan
-[13]:https://www.mendeley.com/profiles/jacopo-panerati/
+[13]:https://orcid.org/0000-0003-2994-5422
 [14]:https://www.scopus.com/authid/detail.uri?authorId=55513211100
 [15]:https://www.semanticscholar.org/author/Jacopo-Panerati/2884542
 [6]:http://polyorbite.ca/
