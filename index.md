@@ -33,6 +33,13 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 - In 2014, Jacopo received the [Vanier Canada Graduate Scholarship][8] from the Natural Sciences and Engineering Research Council of Canada (NSERC).
 - Jacopo was also a recipient of the *Regroupement Stratégique en Microsystème du Québec* (ReSMiQ) Ph.D. scholarship in 2013 and 2014 and Best Student Award in 2013.
 
+## Professional Activities
+
+- Program Committee Member - 2022 International Conference on Autonomous Agents and Multi-agent Systems (AAMAS)
+- Area Chair - 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
+- Program Committee Member - 2021 Robotics: Science and Systems (RSS) Pioneers Workshop
+- Proceedings and Web Chair - 2015 NASA/ESA Conference on Adaptive Hardware and Systems (AHS)
+
 ## Teaching
 
 - At the University of Toronto: lab co-development for "AER1216, Fundamentals of Unmanned Aerial Vehicles Teaching".
@@ -41,6 +48,7 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Select Publications
 
+- Z. Yuan, A. W. Hall, S. Zhou, L. Brunke, M. Greeff, **J. Panerati**, and A. P. Schoellig (2021) *safe-control-gym: a Unified Benchmark Suite for Safe Learning-based Control and Reinforcement  Learning*, arXiv preprint
 - L. Brunke, M. Greeff, A. W. Hall, Z. Yuan, S. Zhou, **J. Panerati**, and A. P. Schoellig (2021) *Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning*, Annual Reviews of Control, Robotics, and Autonomous Systems
 - **J. Panerati**, H. Zheng, S. Zhou, J. Xu, A. Prorok, and A. P. Schoellig (2021) *Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control*, International Conference on Intelligent Robots and Systems
 - W. Zhao, **J. Panerati**, and A. P. Schoellig (2021) *Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots* - IEEE Robotics and Automation Letters
