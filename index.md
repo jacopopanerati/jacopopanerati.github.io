@@ -35,7 +35,8 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Professional Activities
 
-- (proposed) Workshop Organizer - 2022 International Conference on Robotics and Automation (ICRA)
+Program Committee Member - 2022 International Conference on Swarm Intelligence (ANTS)
+- Workshop Organizer - 2022 International Conference on Robotics and Automation (ICRA)
 - Program Committee Member - 2022 International Conference on Autonomous Agents and Multi-agent Systems (AAMAS)
 - Area Chair - 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
 - Program Committee Member - 2021 Robotics: Science and Systems (RSS) Pioneers Workshop
