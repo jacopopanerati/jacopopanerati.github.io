@@ -8,9 +8,11 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 *Github repo*: [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym)—physics-based reinforcement learning environments with symbolic dynamics and constraints
 
-- Mitacs Elevate postdoctoral fellowship: [**Multi-agent reinforcement learning for decentralized UAV/UGV cooperative exploration**][el]. Over the last decade, artificial intelligence has flourished. From a research niche, it has been developed into a versatile tool, seemingly on route to bring automation into every aspect of human life. At the same time, robotics technology has also advanced significantly, and inexpensive multi-robot systems promise to accomplish all those tasks that require both physical parallelism and inherent fault tolerance—such as surveillance and extreme-environment exploration. Decentralized control laws are key to achieve reliability of these systems (as they eliminate the risks posed by single-points-of-failure). Yet, the effective synthesis of (i) machine learning, (ii) multi-robot approaches, and (iii) field robotics is no small task. Previous machine learning and distributed control research rarely ventures beyond computer simulations. GDLS-C and the University of Toronto are investigating how to effectively use multi-agent reinforcement learning in field robotics. GDLS-C's goal is to improve situational awareness of ground vehicles by using swarms of Unmanned Aerial Vehicles (UAV). Learning decentralized cooperation strategies will improve the resilience of these multi-robot systems—potentially faced with adversarial environments—and, ultimately, the safety of their human operators. Answering our research questions will also enable large collections of robots to learn how to interact with one another—beyond the point human designers can attain.
+- Mitacs Elevate postdoctoral fellowship: [**Multi-agent reinforcement learning for decentralized UAV/UGV cooperative exploration**][el]. Over the last decade, artificial intelligence has flourished. From a research niche, it has been developed into a versatile tool, seemingly on route to bring automation into every aspect of human life. At the same time, robotics technology has also advanced significantly, and inexpensive multi-robot systems promise to accomplish all those tasks that require both physical parallelism and inherent fault tolerance—such as surveillance and extreme-environment exploration. GDLS-C and the University of Toronto are investigating how to effectively use multi-agent reinforcement learning in field robotics. GDLS-C's goal is to improve situational awareness of ground vehicles by using heterogeneous teams of Unmanned Ground Vehicles (UGVs) and swarms of Unmanned Aerial Vehicles (UAVs). Learning decentralized cooperation strategies will improve the resilience of these multi-robot systems—potentially faced with adversarial environments—and, ultimately, the safety of their human operators. Answering our research questions will also enable large collections of robots to learn how to interact with one another—beyond the point human designers can attain.
 
 *Github repo*: [`gym-pybullet-drones`](https://github.com/JacopoPan/gym-pybullet-drones)—a physics-based quadcopter control simulation for multi-agent reinforcement learning
+
+*Github repo*: [`gym-marl-reconnaissance`](https://github.com/JacopoPan/gym-marl-reconnaissance)—environments for cooperative multi-agent reinforcement learning in heterogeneous robot teams
 
 
 ## Former Projects
@@ -25,14 +27,6 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 - From 2012 to 2017, Jacopo acted as the Command&Data-Handling team leader of the student society *Société Technique PolyOrbite* developing a 3U nanosatellite for the [Canadian Satellite Design Challenge][9] (CSDC), a Canada-wide competition for teams of university students. *PolyOrbite* obtained the 3rd overall place in the 2012-14 and 2014-16 editions of the CSDC, as well as the CSDC's Educational Outreach prize in 2016 [Website][6], [Facebook][7].
 
-## Scholarship and Awards
-
-- In 2020, Jacopo's proposal on **deep reinforcement for UAV swarms** was selected for the [Robotics: Science & Systems' Pioneers Workshop][rss].
-- In 2019, Jacopo was a visiting Postdoctoral Researcher at the University of Cambridge (UK) thanks to the Mitacs Globalink award.
-- In 2015, Jacopo was a visiting Ph.D. student at the [National Institute of Informatics][11] in Tokyo (Japan) thanks to the MOU grant program.
-- In 2014, Jacopo received the [Vanier Canada Graduate Scholarship][8] from the Natural Sciences and Engineering Research Council of Canada (NSERC).
-- Jacopo was also a recipient of the *Regroupement Stratégique en Microsystème du Québec* (ReSMiQ) Ph.D. scholarship in 2013 and 2014 and Best Student Award in 2013.
-
 ## Professional Activities
 
 - Program Committee Member - 2022 International Conference on Swarm Intelligence (ANTS)
@@ -44,9 +38,17 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Teaching
 
-- At the University of Toronto: lab co-development for "AER1216, Fundamentals of Unmanned Aerial Vehicles Teaching".
-- At *Polytechnique Montréal*: laboratory assistant for *INF1600, Architecture des Micro-ordinateurs* and *AER8300, Informatique des Systèmes Spatiaux*.
-- For the International Space University: teaching associate for the team project "Entrepreneurial And Innovation Ecosystem For Space" at SSP17 in Cork, Ireland.
+- At the University of Toronto: lab co-development of "AER1216, Fundamentals of Unmanned Aerial Vehicles Teaching".
+- At *Polytechnique Montréal*: laboratory assistant and co-development of *INF1600, Architecture des Micro-ordinateurs* and *AER8300, Informatique des Systèmes Spatiaux*.
+- For the International Space University: teaching associate of team project "Entrepreneurial And Innovation Ecosystem For Space" at SSP17 in Cork, Ireland; visiting lecturer of "GPS-denied Navigation with Miniaturized Quadcopters".
+
+## Scholarship and Awards
+
+- In 2020, Jacopo's proposal on **deep reinforcement for UAV swarms** was selected for the [Robotics: Science & Systems' Pioneers Workshop][rss].
+- In 2019, Jacopo was a visiting Postdoctoral Researcher at the University of Cambridge (UK) thanks to the Mitacs Globalink award.
+- In 2015, Jacopo was a visiting Ph.D. student at the [National Institute of Informatics][11] in Tokyo (Japan) thanks to the MOU grant program.
+- In 2014, Jacopo received the [Vanier Canada Graduate Scholarship][8] from the Natural Sciences and Engineering Research Council of Canada (NSERC).
+- Jacopo was also a recipient of the *Regroupement Stratégique en Microsystème du Québec* (ReSMiQ) Ph.D. scholarship in 2013 and 2014 and Best Student Award in 2013.
 
 ## Select Publications
 
