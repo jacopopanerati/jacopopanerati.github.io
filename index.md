@@ -1,3 +1,6 @@
+## About Email Inquiries
+[See this](https://github.com/jacopopanerati/jacopopanerati.github.io/blob/master/index.md#email-inquiries)
+
 ## Short Bio
 
 Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canada) Institute for Aerospace Studies (UTIAS) working for prof. Angela Schoellig in the Dynamic Systems Lab. Jacopo's research interests include reinforcement learning, multi-robot systems, probabilistic graphical models, software engineering, and embedded computing. Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal (Montréal, QC, Canada) and received the M.Sc. degree in computer science from the University of Illinois at Chicago (Chicago, IL) in 2012, the Laurea Triennale degree in computer engineering from Politecnico di Milano (Milan, Italy) in 2009, and the Laurea Specialistica degree in computer engineering again from Politecnico di Milano in 2011. In 2015, Jacopo was a visiting researcher at the National Institute of Informatics (Tokyo, Japan) and attended the International Space University (ISU)'s Space Studies Program in Athens, OH. In 2017, Jacopo also served as a teaching associate for ISU in Cork, Ireland. In 2019, Jacopo was a visiting postdoctoral fellow at the European Astronaut Centre (Köln, Germany) and worked as a research associate at the University of Cambridge's (Cambridge, UK) Department of Computer Science and Technology.
@@ -83,6 +86,10 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 - Contact Jacopo: **jacopo {dot} panerati {at} utoronto {dot} ca**
 - Or find Jacopo on [LinkedIn][1], [GoogleScholar][2], [GitHub][12], [dblp][3], [ResearchGate][10], [ORCID][13], [SemanticScholar][15], [Scopus][14].
 
+
+## Email Inquiries
+
+I read ALL my emails, spam folders included. If I do not reply within a couple of days, I might be having a busy week: feel free to send me a reminder. If I do not to reply to the reminder, please assume that I just do not have a good answer and take this as a broad spectrum apology.
 
 
 [1]:http://www.linkedin.com/pub/jacopo-panerati/51/235/842
