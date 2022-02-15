@@ -34,6 +34,8 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Professional Activities
 
+- Associate Editor - 2022 International Conference on Intelligent Robots and Systems (IROS)
+- Program Committee Member - 2022 Conference on Learning for Dynamics and Control (L4DC)
 - Program Committee Member - 2022 International Conference on Swarm Intelligence (ANTS)
 - Workshop Organizer - 2022 International Conference on Robotics and Automation (ICRA)
 - Program Committee Member - 2022 International Conference on Autonomous Agents and Multi-agent Systems (AAMAS)
@@ -49,6 +51,8 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Scholarship and Awards
 
+- In 2022, Jacopo was selected for the [DAAD Postdoctoral Networking Tour in Artificial Intelligence and Robotics](https://www.daad.de/en/the-daad/postdocnet/)
+- In 2021, Jacopo was selected for the [CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School](https://dlrl.ca)
 - In 2020, Jacopo's proposal on **deep reinforcement for UAV swarms** was selected for the [Robotics: Science & Systems' Pioneers Workshop][rss].
 - In 2019, Jacopo was a visiting Postdoctoral Researcher at the University of Cambridge (UK) thanks to the Mitacs Globalink award.
 - In 2015, Jacopo was a visiting Ph.D. student at the [National Institute of Informatics][11] in Tokyo (Japan) thanks to the MOU grant program.
