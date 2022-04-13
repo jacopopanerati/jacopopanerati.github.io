@@ -10,7 +10,7 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Current Research
 
-- [**Safe Learning Control**][el]. As data- and learning-based methods gain traction, researchers must also understand how to leverage them in real-world robotic systems, where implementing and guaranteeing safety is imperative—to avoid costly hardware failures and allow deployment in the proximity of human operators. The last half-decade has seen a steep rise in the number of contributions to this area from both the control and reinforcement learning communities. To demystify and unify the language and frameworks used in control theory and reinforcement learning research—as well as to facilitate fair comparisons between these fields—we propose a set of physics-based benchmarks with intuitive APIs to support the implementation of safe and robust learning control.
+- [**Safe Learning Control**][el] ([website](https://www.dynsyslab.org/safe-robot-learning/)). As data- and learning-based methods gain traction, researchers must also understand how to leverage them in real-world robotic systems, where implementing and guaranteeing safety is imperative—to avoid costly hardware failures and allow deployment in the proximity of human operators. The last half-decade has seen a steep rise in the number of contributions to this area from both the control and reinforcement learning communities. To demystify and unify the language and frameworks used in control theory and reinforcement learning research—as well as to facilitate fair comparisons between these fields—we propose a set of physics-based benchmarks with intuitive APIs to support the implementation of safe and robust learning control.
 
 *Github repo*: [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym)—physics-based reinforcement learning environments with symbolic dynamics and constraints
 
@@ -35,10 +35,11 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Professional Activities
 
+- [Competition Organizer - 2022 International Conference on Intelligent Robots and Systems (IROS)](https://www.dynsyslab.org/iros-2022-safe-robot-learning-competition/)
 - Associate Editor - 2022 International Conference on Intelligent Robots and Systems (IROS)
 - Program Committee Member - 2022 Conference on Learning for Dynamics and Control (L4DC)
 - Program Committee Member - 2022 International Conference on Swarm Intelligence (ANTS)
-- Workshop Organizer - 2022 International Conference on Robotics and Automation (ICRA)
+- [Workshop Organizer - 2022 International Conference on Robotics and Automation (ICRA)](https://www.dynsyslab.org/releasing-robots-into-the-wild-workshop/)
 - Program Committee Member - 2022 International Conference on Autonomous Agents and Multi-agent Systems (AAMAS)
 - Area Chair - 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
 - Program Committee Member - 2021 Robotics: Science and Systems (RSS) Pioneers Workshop
