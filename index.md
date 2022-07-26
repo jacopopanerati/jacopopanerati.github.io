@@ -47,7 +47,7 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Teaching
 
-- At the University of Toronto: lab co-development of "AER1216, Fundamentals of Unmanned Aerial Vehicles Teaching".
+- At the University of Toronto: lab co-development of "AER1216, Fundamentals of Unmanned Aerial Vehicles Teaching" and "AER1517, Control for Robotics".
 - At *Polytechnique Montréal*: laboratory assistant and co-development of *INF1600, Architecture des Micro-ordinateurs* and *AER8300, Informatique des Systèmes Spatiaux*.
 - For the International Space University: teaching associate of team project "Entrepreneurial And Innovation Ecosystem For Space" at SSP17 in Cork, Ireland; visiting lecturer of "GPS-denied Navigation with Miniaturized Quadcopters".
 
@@ -63,7 +63,7 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Select Publications
 
-- Z. Yuan, A. W. Hall, S. Zhou, L. Brunke, M. Greeff, **J. Panerati**, and A. P. Schoellig (2021) *safe-control-gym: a Unified Benchmark Suite for Safe Learning-based Control and Reinforcement  Learning*, arXiv preprint
+- Z. Yuan, A. W. Hall, S. Zhou, L. Brunke, M. Greeff, **J. Panerati**, and A. P. Schoellig (2022) *safe-control-gym: a Unified Benchmark Suite for Safe Learning-based Control and Reinforcement  Learning in Robotics*, - IEEE Robotics and Automation Letters
 - L. Brunke, M. Greeff, A. W. Hall, Z. Yuan, S. Zhou, **J. Panerati**, and A. P. Schoellig (2021) *Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning*, Annual Reviews of Control, Robotics, and Autonomous Systems
 - **J. Panerati**, H. Zheng, S. Zhou, J. Xu, A. Prorok, and A. P. Schoellig (2021) *Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control*, International Conference on Intelligent Robots and Systems
 - W. Zhao, **J. Panerati**, and A. P. Schoellig (2021) *Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots* - IEEE Robotics and Automation Letters
