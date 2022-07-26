@@ -63,9 +63,9 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Select Publications
 
-- Z. Yuan, A. W. Hall, S. Zhou, L. Brunke, M. Greeff, **J. Panerati**, and A. P. Schoellig (2022) *safe-control-gym: a Unified Benchmark Suite for Safe Learning-based Control and Reinforcement  Learning in Robotics*, - IEEE Robotics and Automation Letters
-- L. Brunke, M. Greeff, A. W. Hall, Z. Yuan, S. Zhou, **J. Panerati**, and A. P. Schoellig (2021) *Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning*, Annual Reviews of Control, Robotics, and Autonomous Systems
-- **J. Panerati**, H. Zheng, S. Zhou, J. Xu, A. Prorok, and A. P. Schoellig (2021) *Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control*, International Conference on Intelligent Robots and Systems
+- Z. Yuan, A. W. Hall, S. Zhou, L. Brunke, M. Greeff, **J. Panerati**, and A. P. Schoellig (2022) *safe-control-gym: a Unified Benchmark Suite for Safe Learning-based Control and Reinforcement  Learning in Robotics* - IEEE Robotics and Automation Letters
+- L. Brunke, M. Greeff, A. W. Hall, Z. Yuan, S. Zhou, **J. Panerati**, and A. P. Schoellig (2021) *Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning* - Annual Reviews of Control, Robotics, and Autonomous Systems
+- **J. Panerati**, H. Zheng, S. Zhou, J. Xu, A. Prorok, and A. P. Schoellig (2021) *Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control* - International Conference on Intelligent Robots and Systems
 - W. Zhao, **J. Panerati**, and A. P. Schoellig (2021) *Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots* - IEEE Robotics and Automation Letters
 - **J. Panerati**, B. Ramtoula, D. St-Onge, Y. Cao, M. Kaufmann, A. Cowley, L. Sabattini, and G. Beltrame (2021) *On the Communication Requirements of Decentralized Connectivity Control - A Field Experiment* - 2021 International Symposium on Distributed Autonomous Robotic Systems
 - R. Mitchell, J. Fletcher, **J. Panerati**, and A. Prorok (2020) *Multi-Vehicle Mixed-Reality Reinforcement Learning for Autonomous Multi-Lane Driving* - International Conference on Autonomous Agents and Multiagent Systems
