@@ -12,11 +12,11 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 - [**Safe Learning Control**][el] ([website](https://www.dynsyslab.org/safe-robot-learning/)). As data- and learning-based methods gain traction, researchers must also understand how to leverage them in real-world robotic systems, where implementing and guaranteeing safety is imperative—to avoid costly hardware failures and allow deployment in the proximity of human operators. The last half-decade has seen a steep rise in the number of contributions to this area from both the control and reinforcement learning communities. To demystify and unify the language and frameworks used in control theory and reinforcement learning research—as well as to facilitate fair comparisons between these fields—we propose a set of physics-based benchmarks with intuitive APIs to support the implementation of safe and robust learning control.
 
-*Github repo*: [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym)—physics-based reinforcement learning environments with symbolic dynamics and constraints
+*Github repo*: [`safe-control-gym`](https://github.com/utiasDSL/safe-control-gym)—physics-based reinforcement learning environments with symbolic dynamics and constraints ([video](https://www.youtube.com/watch?v=dgni-58OSMs))
 
 - Mitacs Elevate postdoctoral fellowship: [**Multi-agent reinforcement learning for decentralized UAV/UGV cooperative exploration**][el]. Over the last decade, artificial intelligence has flourished. From a research niche, it has been developed into a versatile tool, seemingly on route to bring automation into every aspect of human life. At the same time, robotics technology has also advanced significantly, and inexpensive multi-robot systems promise to accomplish all those tasks that require both physical parallelism and inherent fault tolerance—such as surveillance and extreme-environment exploration. GDLS-C and the University of Toronto are investigating how to effectively use multi-agent reinforcement learning in field robotics. GDLS-C's goal is to improve situational awareness of ground vehicles by using heterogeneous teams of Unmanned Ground Vehicles (UGVs) and swarms of Unmanned Aerial Vehicles (UAVs). Learning decentralized cooperation strategies will improve the resilience of these multi-robot systems—potentially faced with adversarial environments—and, ultimately, the safety of their human operators. Answering our research questions will also enable large collections of robots to learn how to interact with one another—beyond the point human designers can attain.
 
-*Github repo*: [`gym-pybullet-drones`](https://github.com/JacopoPan/gym-pybullet-drones)—a physics-based quadcopter control simulation for multi-agent reinforcement learning
+*Github repo*: [`gym-pybullet-drones`](https://github.com/JacopoPan/gym-pybullet-drones)—a physics-based quadcopter control simulation for multi-agent reinforcement learning ([video](https://www.youtube.com/watch?v=VdTsVu1HuYk))
 
 *Github repo*: [`gym-marl-reconnaissance`](https://github.com/JacopoPan/gym-marl-reconnaissance)—environments for cooperative multi-agent reinforcement learning in heterogeneous robot teams
 
@@ -35,7 +35,7 @@ Jacopo is a postdoctoral fellow at the University of Toronto (Toronto, ON, Canad
 
 ## Professional Activities
 
-- [Competition Organizer - 2022 International Conference on Intelligent Robots and Systems (IROS)](https://www.dynsyslab.org/iros-2022-safe-robot-learning-competition/)
+- [Competition Organizer - 2022 International Conference on Intelligent Robots and Systems (IROS)](https://www.dynsyslab.org/iros-2022-safe-robot-learning-competition/) ([codebase](https://github.com/utiasDSL/safe-control-gym/tree/beta-iros-competition))
 - Associate Editor - 2022 International Conference on Intelligent Robots and Systems (IROS)
 - Program Committee Member - 2022 Conference on Learning for Dynamics and Control (L4DC)
 - Program Committee Member - 2022 International Conference on Swarm Intelligence (ANTS)
