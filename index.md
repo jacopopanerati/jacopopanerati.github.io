@@ -31,6 +31,8 @@ Jacopo is the lead researcher for machine learning in control at ATRC’s Techno
 
 ## Professional Activities
 
+- [Workshop Organizer - 2023 IEEE Conference on Decision and Control (CDC)](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/)
+- Associate Editor - 2023 International Conference on Intelligent Robots and Systems (IROS)
 - [Competition Organizer - 2022 International Conference on Intelligent Robots and Systems (IROS)](https://www.dynsyslab.org/iros-2022-safe-robot-learning-competition/) ([codebase](https://github.com/utiasDSL/safe-control-gym/tree/beta-iros-competition))
 - Associate Editor - 2022 International Conference on Intelligent Robots and Systems (IROS)
 - Program Committee Member - 2022 Conference on Learning for Dynamics and Control (L4DC)
@@ -59,6 +61,8 @@ Jacopo is the lead researcher for machine learning in control at ATRC’s Techno
 
 ## Select Publications
 
+- S. Teetaert, W. Zhao, N. Xinyuan, H. Zahir, H. Leong, M. Hidalgo, G. Puga, T. Lorente, N. Espinosa, J. A. Duarte Carrasco, K. Zhang, J. Di, T. Jin, X. Li, Y. Zhou, X. Liang, C. Zhang, A. Loquercio, S. Zhou, L. Brunke, M. Greeff, W. Hoenig, **J. Panerati**, A. P. Schoellig (2023) *A Remote Sim2real Aerial Competition: Fostering Reproducibility and Solutions' Diversity in Robotics Challenges* - TBA
+- S. Zhou, L. Brunke, A. Tao, A. W. Hall, F. Pizarro Bejarano, **J. Panerati**, A. P. Schoellig (2023) *What is the Impact of Releasing Code with Publications? Statistics from the Machine Learning, Robotics, and Control Communities* - TBA
 - Z. Yuan, A. W. Hall, S. Zhou, L. Brunke, M. Greeff, **J. Panerati**, and A. P. Schoellig (2022) *safe-control-gym: a Unified Benchmark Suite for Safe Learning-based Control and Reinforcement  Learning in Robotics* - IEEE Robotics and Automation Letters
 - L. Brunke, M. Greeff, A. W. Hall, Z. Yuan, S. Zhou, **J. Panerati**, and A. P. Schoellig (2021) *Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning* - Annual Reviews of Control, Robotics, and Autonomous Systems
 - **J. Panerati**, H. Zheng, S. Zhou, J. Xu, A. Prorok, and A. P. Schoellig (2021) *Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control* - International Conference on Intelligent Robots and Systems
