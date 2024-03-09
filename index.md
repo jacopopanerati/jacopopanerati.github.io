@@ -6,6 +6,8 @@ Jacopo is the lead researcher for machine learning in control at ATRC’s Techno
 
 - [Curriculum vitae][cv]
 
+*Github repo*: [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
+
 ## Former Projects
 
 - [**Safe Learning Control**][el] ([website](https://www.dynsyslab.org/safe-robot-learning/)). As data- and learning-based methods gain traction, researchers must also understand how to leverage them in real-world robotic systems, where implementing and guaranteeing safety is imperative—to avoid costly hardware failures and allow deployment in the proximity of human operators. The last half-decade has seen a steep rise in the number of contributions to this area from both the control and reinforcement learning communities. To demystify and unify the language and frameworks used in control theory and reinforcement learning research—as well as to facilitate fair comparisons between these fields—we propose a set of physics-based benchmarks with intuitive APIs to support the implementation of safe and robust learning control.
@@ -17,7 +19,6 @@ Jacopo is the lead researcher for machine learning in control at ATRC’s Techno
 *Github repo*: [`gym-pybullet-drones`](https://github.com/JacopoPan/gym-pybullet-drones)—a physics-based quadcopter control simulation for multi-agent reinforcement learning ([video](https://www.youtube.com/watch?v=VdTsVu1HuYk))
 
 *Github repo*: [`gym-marl-reconnaissance`](https://github.com/JacopoPan/gym-marl-reconnaissance)—environments for cooperative multi-agent reinforcement learning in heterogeneous robot teams
-
 
 - Mitacs Globalink research at the University of Cambridge's [Prorok Laboratory][pl] on **adversarial private flocking**. Privacy is an important facet of defence against adversaries. In this project, we introduced the problem of private flocking. We considered a team of mobile robots flocking in the presence of an adversary who is interested in identifying their leader. We developed a method to generate private flocking controllers that hide the identity of the leader robot. Our concurrent approach towards privacy improvement leverages machine learning and game theory. To evaluate the performance of our co-optimization scheme, we investigated different classes of reference trajectories for the robots. Although it is reasonable to assume that there is an inherent trade-off between flocking performance and privacy, our results demonstrate that we are able to achieve high flocking performance and simultaneously reduce the risk of revealing the leader. 
 
@@ -61,8 +62,9 @@ Jacopo is the lead researcher for machine learning in control at ATRC’s Techno
 
 ## Select Publications
 
-- S. Teetaert, W. Zhao, N. Xinyuan, H. Zahir, H. Leong, M. Hidalgo, G. Puga, T. Lorente, N. Espinosa, J. A. Duarte Carrasco, K. Zhang, J. Di, T. Jin, X. Li, Y. Zhou, X. Liang, C. Zhang, A. Loquercio, S. Zhou, L. Brunke, M. Greeff, W. Hoenig, **J. Panerati**, A. P. Schoellig (2023) *A Remote Sim2real Aerial Competition: Fostering Reproducibility and Solutions' Diversity in Robotics Challenges* - TBA
-- S. Zhou, L. Brunke, A. Tao, A. W. Hall, F. Pizarro Bejarano, **J. Panerati**, A. P. Schoellig (2023) *What is the Impact of Releasing Code with Publications? Statistics from the Machine Learning, Robotics, and Control Communities* - TBA
+- S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, W. Hoenig, **J. Panerati**, A. P. Schoellig (2024) *Advancing Reproducibility, Benchmarks, and Education with Remote Sim2real* - IEEE Robotics and Automation Magazine
+- M. Bosello, D. Aguiari, Y. Keuter, E. Pallotta, S. Kiade, G. Caminati, F. Pinzarrone, J. Halepota, **J. Panerati**, and G. Pau (2024) *Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight* - IEEE Robotics and Automation Letters
+- S. Zhou, L. Brunke, A. Tao, A. W. Hall, F. Pizarro Bejarano, **J. Panerati**, A. P. Schoellig (2023) *What is the Impact of Releasing Code with Publications? Statistics from the Machine Learning, Robotics, and Control Communities* - IEEE Control Systems Magazine
 - Z. Yuan, A. W. Hall, S. Zhou, L. Brunke, M. Greeff, **J. Panerati**, and A. P. Schoellig (2022) *safe-control-gym: a Unified Benchmark Suite for Safe Learning-based Control and Reinforcement  Learning in Robotics* - IEEE Robotics and Automation Letters
 - L. Brunke, M. Greeff, A. W. Hall, Z. Yuan, S. Zhou, **J. Panerati**, and A. P. Schoellig (2021) *Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning* - Annual Reviews of Control, Robotics, and Autonomous Systems
 - **J. Panerati**, H. Zheng, S. Zhou, J. Xu, A. Prorok, and A. P. Schoellig (2021) *Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control* - International Conference on Intelligent Robots and Systems
