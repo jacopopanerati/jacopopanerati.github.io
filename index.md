@@ -1,5 +1,3 @@
-## A Brief Introduction
-
 ## Biography
 
 Jacopo worked as a postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA) and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include reinforcement learning, multi-robot systems, probabilistic graphical models, software engineering, and embedded computing.
@@ -7,6 +5,8 @@ Jacopo worked as a postdoctoral fellow at the University of Toronto Institute fo
 - [Curriculum vitae][cv]
 
 *Github repo*: [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
+
+*Github repo*: [`px4-fw-aerobatics`](https://github.com/JacopoPan/px4-fw-aerobatics)—PX4 VTOL off-board control in ROS2 for autonomous agile flight
 
 ## Former Projects
 
@@ -62,6 +62,7 @@ Jacopo worked as a postdoctoral fellow at the University of Toronto Institute fo
 
 ## Select Publications
 
+- S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, M. Schuck, W. Hoenig, **J. Panerati**, and A. P. Schoellig (2025) *Advancing Reproducibility, Benchmarks, and Education with Remote Sim2real* - IEEE Robotics and Automation Magazine
 - M. Bosello, D. Aguiari, Y. Keuter, E. Pallotta, S. Kiade, G. Caminati, F. Pinzarrone, J. Halepota, **J. Panerati**, and G. Pau (2024) *Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight* - IEEE Robotics and Automation Letters
 - S. Zhou, L. Brunke, A. Tao, A. W. Hall, F. Pizarro Bejarano, **J. Panerati**, A. P. Schoellig (2023) *What is the Impact of Releasing Code with Publications? Statistics from the Machine Learning, Robotics, and Control Communities* - IEEE Control Systems Magazine
 - Z. Yuan, A. W. Hall, S. Zhou, L. Brunke, M. Greeff, **J. Panerati**, and A. P. Schoellig (2022) *safe-control-gym: a Unified Benchmark Suite for Safe Learning-based Control and Reinforcement  Learning in Robotics* - IEEE Robotics and Automation Letters
