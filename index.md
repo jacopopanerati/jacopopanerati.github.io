@@ -1,6 +1,6 @@
 ## Biography
 
-Jacopo worked as a postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA) and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include reinforcement learning, multi-robot systems, probabilistic graphical models, software engineering, and embedded computing.
+Jacopo is the lead researcher in machine learning for control at the Technology Innovation Institute (Abu Dhabi, UAE). Jacopo also worked as a postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA) and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include reinforcement learning, aerial and multi-robot systems, aerospace, software engineering, and embedded computing.
 
 - [Curriculum vitae][cv]
 
