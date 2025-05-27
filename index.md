@@ -10,6 +10,8 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 > 
 > - *Github repo*: [`px4-fw-aerobatics`](https://github.com/JacopoPan/px4-fw-aerobatics)—PX4 VTOL off-board control in ROS2 for autonomous agile flight
 
+---
+
 > **Autonomous Drone Racing**
 > 
 > - *Github repo*: [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
@@ -98,7 +100,6 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 ## Contact Information and Links
 
 > Contact Jacopo: **jacopo {dot} panerati {at} gmail {dot} com**
-> 
 > Or find Jacopo on [LinkedIn][1], [GoogleScholar][2], [GitHub][12], [dblp][3], [ResearchGate][10], [ORCID][13], [SemanticScholar][15], [Scopus][14].
 
 
