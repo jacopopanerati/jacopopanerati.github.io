@@ -12,7 +12,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ---
 
-> **Autonomous Drone Racing**: human champion-level FPV flight with onboard sensing-only and no ground truth data.
+> **Autonomous Drone Racing**: human champion-level FPV flight with onboard sensing-only and without ground truth data for fine-tuning.
 > 
 > - *Github repo*: [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
 
