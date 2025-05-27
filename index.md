@@ -2,17 +2,17 @@
 
 Jacopo is the lead researcher in machine learning for control at the Technology Innovation Institute (Abu Dhabi, UAE). Jacopo also worked as a postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA) and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include aerial and multi-robot systems, reinforcement learning, simulation, aerospace, and software engineering.
 
-- [Curriculum vitae][cv]
+> [Curriculum vitae][cv]
 
 ## Current Research
 
-- **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight up to 50m/s (180km/h).
+> **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight up to 50m/s (180km/h).
+> 
+> - *Github repo*: [`px4-fw-aerobatics`](https://github.com/JacopoPan/px4-fw-aerobatics)—PX4 VTOL off-board control in ROS2 for autonomous agile flight
 
-*Github repo*: [`px4-fw-aerobatics`](https://github.com/JacopoPan/px4-fw-aerobatics)—PX4 VTOL off-board control in ROS2 for autonomous agile flight
-
-- **Autonomous Drone Racing**
-
-*Github repo*: [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
+> **Autonomous Drone Racing**
+> 
+> - *Github repo*: [`drone-racing-dataset`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
 
 
 ## Former Projects
