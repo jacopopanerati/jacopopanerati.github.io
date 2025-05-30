@@ -25,7 +25,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ---
 
-> Mitacs Elevate postdoctoral fellowship: [**Multi-agent reinforcement learning for decentralized UAV/UGV cooperative exploration**][el]. GDLS-C and the University of Toronto investigated how to effectively use multi-agent reinforcement learning in aerial and field robotics. GDLS-C's goal is to improve situational awareness of ground vehicles by using heterogeneous teams of Unmanned Ground Vehicles (UGVs) and swarms of Unmanned Aerial Vehicles (UAVs). Learning decentralized cooperation strategies can improve the resilience of these multi-robot systems—potentially faced with adversarial environments—and, ultimately, the safety of their human operators.
+> [Mitacs Elevate postdoctoral fellowship][el]: **Multi-agent reinforcement learning for decentralized UAV/UGV cooperative exploration**. GDLS-C and the University of Toronto investigated how to effectively use multi-agent reinforcement learning in aerial and field robotics. GDLS-C's goal is to improve situational awareness of ground vehicles by using heterogeneous teams of Unmanned Ground Vehicles (UGVs) and swarms of Unmanned Aerial Vehicles (UAVs). Learning decentralized cooperation strategies can improve the resilience of these multi-robot systems—potentially faced with adversarial environments—and, ultimately, the safety of their human operators.
 > 
 > - *Github repo*: [`gym-pybullet-drones`](https://github.com/JacopoPan/gym-pybullet-drones)—a physics-based quadcopter control simulation for multi-agent reinforcement learning ([video](https://www.youtube.com/watch?v=VdTsVu1HuYk))
 > - *Github repo*: [`gym-marl-reconnaissance`](https://github.com/JacopoPan/gym-marl-reconnaissance)—environments for cooperative multi-agent reinforcement learning in heterogeneous robot teams
@@ -38,7 +38,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ---
 
-> ESA's NPI postdoctoral research: [**A Symbiotic Human and Multi-Robot Planetary Exploration System**][esa]. Most space agencies are now targeting the Moon as the next step in exploration beyond LEO and many already have plans for precursor robotic and human exploration. For example, ESA has championed the “Moon Village” concept since 2016 and NASA’s 2018 budget includes a Lunar Exploration Campaign. In this context, natural caves are appealing solutions to shelter humans and equipment for long-duration Lunar missions. In 2017, data from JAXA’s Kaguya probe revealed a 50km-long lava tube. For safety reasons, the preliminary robotic exploration of these tubes is imperative. Multi-robot systems carry the potential for greater efficiency and higher fault-tolerance, because of their ability to cooperate and inherent redundancy.
+> [ESA's NPI postdoctoral research][esa]: **A Symbiotic Human and Multi-Robot Planetary Exploration System**. Most space agencies are now targeting the Moon as the next step in exploration beyond LEO and many already have plans for precursor robotic and human exploration. For example, ESA has championed the “Moon Village” concept since 2016 and NASA’s 2018 budget includes a Lunar Exploration Campaign. In this context, natural caves are appealing solutions to shelter humans and equipment for long-duration Lunar missions. In 2017, data from JAXA’s Kaguya probe revealed a 50km-long lava tube. For safety reasons, the preliminary robotic exploration of these tubes is imperative. Multi-robot systems carry the potential for greater efficiency and higher fault-tolerance, because of their ability to cooperate and inherent redundancy.
 
 ---
 
@@ -46,7 +46,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ---
 
-> From 2012 to 2017, Jacopo acted as the Command&Data-Handling team leader of the student society *Société Technique PolyOrbite* developing a 3U nanosatellite for the [Canadian Satellite Design Challenge][9] (CSDC), a Canada-wide competition for teams of university students. *PolyOrbite* obtained the 3rd overall place in the 2012-14 and 2014-16 editions of the CSDC, as well as the CSDC's Educational Outreach prize in 2016 [Website][6], [Facebook][7].
+> From 2012 to 2017, Jacopo acted as the Command&Data-Handling team leader of the student society [*Société Technique PolyOrbite*][7] developing a 3U nanosatellite for the [Canadian Satellite Design Challenge][9] (CSDC), a Canada-wide competition for teams of university students. *PolyOrbite* obtained the 3rd overall place in the 2012-14 and 2014-16 editions of the CSDC, as well as the CSDC's Educational Outreach prize in 2016.
 
 ## Select Publications
 
@@ -122,15 +122,14 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 [13]:https://orcid.org/0000-0003-2994-5422
 [14]:https://www.scopus.com/authid/detail.uri?authorId=55513211100
 [15]:https://www.semanticscholar.org/author/Jacopo-Panerati/2884542
-[6]:http://polyorbite.ca/
 [7]:https://www.facebook.com/PolyOrbite
-[8]:http://www.vanier.gc.ca/en/scholar_search-chercheur_recherche_2014.html
+[8]:https://vanier.gc.ca/en/home-accueil.html
 [11]:http://research.nii.ac.jp/il/
 [9]:http://www.csdcms.ca/
 [4]:http://carabins.umontreal.ca/
 [pl]:https://www.proroklab.org
 [esa]:http://blogs.esa.int/caves/2018/12/04/a-swarm-of-drones/
-[el]:https://www.mitacs.ca/en/projects/multi-agent-reinforcement-learning-decentralized-uavugv-cooperative-exploration
+[el]:https://www.mitacs.ca/our-projects/multi-agent-reinforcement-learning-for-decentralized-uav-ugv-cooperative-exploration/
 [rss]:https://sites.google.com/view/rsspioneers2020/participants?authuser=0
 
 [cv]:https://www.dropbox.com/s/xd876ynmh18gf58/cv.pdf?dl=0
