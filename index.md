@@ -38,7 +38,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ---
 
-> ESA's Networking/Partnering Initiative postdoctoral research: **A Symbiotic Human and Multi-Robot Planetary Exploration System**. The availability of next-generation heavy launchers will enable new planetary exploration missions. Most space agencies are now targeting the Moon as the next step in exploration beyond LEO and many already have plans for precursor [robotic and human exploration][esa]. For example, ESA has championed the “Moon Village” concept since 2016 and NASA’s 2018 budget includes a Lunar Exploration Campaign. In this context, natural caves are appealing solutions to shelter humans and equipment for long-duration Lunar missions. In 2017, data from JAXA’s Kaguya probe revealed a 50km-long lava tube. For safety reasons, the preliminary robotic exploration of these tubes is imperative. Multi-robot systems carry the potential for greater efficiency and higher fault-tolerance, because of their ability to cooperate and inherent redundancy.
+> ESA's NPI postdoctoral research: [**A Symbiotic Human and Multi-Robot Planetary Exploration System**][esa]. Most space agencies are now targeting the Moon as the next step in exploration beyond LEO and many already have plans for precursor robotic and human exploration. For example, ESA has championed the “Moon Village” concept since 2016 and NASA’s 2018 budget includes a Lunar Exploration Campaign. In this context, natural caves are appealing solutions to shelter humans and equipment for long-duration Lunar missions. In 2017, data from JAXA’s Kaguya probe revealed a 50km-long lava tube. For safety reasons, the preliminary robotic exploration of these tubes is imperative. Multi-robot systems carry the potential for greater efficiency and higher fault-tolerance, because of their ability to cooperate and inherent redundancy.
 
 ---
 
@@ -89,16 +89,16 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ## Professional Activities
 
+- Associate Editor (Aerial Robotics) - Robotics and Automation Letters (RAL), since 2023
+- Associate Editor (Robot Learning) - International Conference on Intelligent Robots and Systems (IROS), since 2022
 - [Workshop Organizer - 2023 IEEE Conference on Decision and Control (CDC)](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/)
-- Associate Editor - 2023 International Conference on Intelligent Robots and Systems (IROS)
 - [Competition Organizer - 2022 International Conference on Intelligent Robots and Systems (IROS)](https://www.dynsyslab.org/iros-2022-safe-robot-learning-competition/) ([codebase](https://github.com/utiasDSL/safe-control-gym/tree/beta-iros-competition))
-- Associate Editor - 2022 International Conference on Intelligent Robots and Systems (IROS)
+- [Workshop Organizer - 2022 International Conference on Robotics and Automation (ICRA)](https://www.dynsyslab.org/releasing-robots-into-the-wild-workshop/)
 - Program Committee Member - 2022 Conference on Learning for Dynamics and Control (L4DC)
 - Program Committee Member - 2022 International Conference on Swarm Intelligence (ANTS)
-- [Workshop Organizer - 2022 International Conference on Robotics and Automation (ICRA)](https://www.dynsyslab.org/releasing-robots-into-the-wild-workshop/)
 - Program Committee Member - 2022 International Conference on Autonomous Agents and Multi-agent Systems (AAMAS)
-- Area Chair - 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
 - Program Committee Member - 2021 Robotics: Science and Systems (RSS) Pioneers Workshop
+- Area Chair - 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
 - Proceedings and Web Chair - 2015 NASA/ESA Conference on Adaptive Hardware and Systems (AHS)
 
 ## Teaching
