@@ -6,7 +6,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ## Current Research
 
-> **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight up to 50m/s (180km/h).
+> **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50m/s (180km/h).
 > 
 > - [`px4-fw-aerobatics.git`](https://github.com/JacopoPan/px4-fw-aerobatics)—PX4 VTOL off-board control in ROS2 for autonomous agile flight
 
