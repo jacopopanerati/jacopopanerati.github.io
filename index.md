@@ -8,7 +8,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 > **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50m/s (180km/h).
 > 
-> - [`px4-fw-aerobatics.git`](https://github.com/JacopoPan/px4-fw-aerobatics)—PX4 VTOL off-board control in ROS2 for autonomous agile flight
+> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack)—ROS2 support for PX4/ArduPilot with YOLOv8 for deployable drone autonomy
 
 ---
 
@@ -34,7 +34,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 > Mitacs Globalink research at the University of Cambridge's [Prorok Laboratory][pl] on **adversarial private flocking**. Privacy is an important facet of defense against adversaries. In this project, we introduced the problem of private flocking. We considered a team of mobile robots flocking in the presence of an adversary who is interested in identifying their leader. We developed a method to generate private flocking controllers that hide the identity of the leader robot. Our results demonstrate that we are able to achieve high flocking performance and simultaneously reduce the risk of revealing the leader.
 > 
-> - [`private_flocking.git`](https://github.com/proroklab/private_flocking)
+> - [`private_flocking.git`](https://github.com/proroklab/private_flocking)—adversarial learning for multi-drone flight in AirSim
 
 ---
 
