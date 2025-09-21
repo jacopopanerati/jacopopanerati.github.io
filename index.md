@@ -3,6 +3,8 @@
 Jacopo is the lead researcher in machine learning for control at the Technology Innovation Institute (Abu Dhabi, UAE). Jacopo also worked as a postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA) and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include aerial and multi-robot systems, reinforcement learning, simulation, aerospace, and software engineering.
 
 > [Curriculum vitae][cv]
+>
+> [GitHub account][https://github.com/JacopoPan]
 
 ## Current Research
 
@@ -89,6 +91,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ## Professional Activities
 
+- Associate Editor (Autonomy for Mobility and Manipulation) - International Conference on Robotics and Automation (ICRA), since 2026
 - Associate Editor (Aerial Robotics) - Robotics and Automation Letters (RAL), since 2023
 - Associate Editor (Robot Learning) - International Conference on Intelligent Robots and Systems (IROS), since 2022
 - [Workshop Organizer - 2023 IEEE Conference on Decision and Control (CDC)](https://www.dynsyslab.org/cdc-2023-workshop-on-benchmarking-reproducibility-and-open-source-code-in-controls/)
