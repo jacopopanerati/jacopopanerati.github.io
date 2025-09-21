@@ -4,7 +4,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 > [Curriculum vitae][cv]
 >
-> [GitHub account][https://github.com/JacopoPan]
+> [GitHub account](https://github.com/JacopoPan)
 
 ## Current Research
 
