@@ -21,7 +21,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ## Former Projects
 
-> [**Safe Learning Control**][el] ([website](https://www.dynsyslab.org/safe-robot-learning/)). As data- and learning-based methods gain traction, researchers must also understand how to leverage them in real-world robotic systems, where implementing and guaranteeing safety is imperative. To unify the frameworks used in control theory and reinforcement learning research—as well as to facilitate fair comparisons between these fields—we propose a set of physics-based benchmarks with intuitive APIs for safe and robust learning control.
+> **Safe Learning Control** ([website](https://www.dynsyslab.org/safe-robot-learning/)). As data- and learning-based methods gain traction, researchers must also understand how to leverage them in real-world robotic systems, where implementing and guaranteeing safety is imperative. To unify the frameworks used in control theory and reinforcement learning research—as well as to facilitate fair comparisons between these fields—we propose a set of physics-based benchmarks with intuitive APIs for safe and robust learning control.
 > 
 > - [`safe-control-gym.git`](https://github.com/utiasDSL/safe-control-gym)—physics-based reinforcement learning environments with symbolic dynamics and constraints ([video](https://www.youtube.com/watch?v=dgni-58OSMs))
 
@@ -121,7 +121,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 [1]:http://www.linkedin.com/pub/jacopo-panerati/51/235/842
 [2]:http://scholar.google.com/citations?user=DzdTvkEAAAAJ&hl=en
-[3]:http://www.informatik.uni-trier.de/~ley/pers/hy/p/Panerati:Jacopo.html
+[3]:https://dblp.org/search/pid/api?q=author:Jacopo_Panerati:
 [10]:https://www.researchgate.net/profile/Jacopo_Panerati
 [12]:https://github.com/jacopopan
 [13]:https://orcid.org/0000-0003-2994-5422
