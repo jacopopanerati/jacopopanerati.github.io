@@ -6,6 +6,8 @@ Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québe
 
 > [GitHub account](https://github.com/JacopoPan)
 
+> [Google Scholar account](https://scholar.google.com/citations?hl=en&user=DzdTvkEAAAAJ)
+
 ## Current Research
 
 > **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50m/s (180km/h).
