@@ -2,11 +2,11 @@
 
 Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québec) of the National Research Council (NRC) Canada. Jacopo also worked as lead researcher at the Technology Innovation Institute (Abu Dhabi, UAE), as postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA), and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include aerial and multi-robot systems, reinforcement learning, simulation, aerospace, and software engineering.
 
+> [Google Scholar](https://scholar.google.com/citations?hl=en&user=DzdTvkEAAAAJ)
+
+> [LinkedIn](https://www.linkedin.com/in/jacopo-panerati/)
+
 > [Curriculum vitae][cv]
-
-> [GitHub account](https://github.com/JacopoPan)
-
-> [Google Scholar account](https://scholar.google.com/citations?hl=en&user=DzdTvkEAAAAJ)
 
 ## Current Research
 

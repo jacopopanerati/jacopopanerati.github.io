@@ -7,5 +7,8 @@ logo: /photo.jpeg
 # show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
 
+github:
+  site.github.owner_url: https://github.com/JacopoPan
+
 plugins:
   - jekyll-redirect-from
