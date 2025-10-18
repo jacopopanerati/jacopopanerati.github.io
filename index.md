@@ -1,6 +1,6 @@
 ## Biography
 
-Jacopo is the lead researcher in machine learning for control at the Technology Innovation Institute (Abu Dhabi, UAE). Jacopo also worked as a postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA) and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include aerial and multi-robot systems, reinforcement learning, simulation, aerospace, and software engineering.
+Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québec) of the National Research Council (NRC) Canada. Jacopo also worked as lead researcher at the Technology Innovation Institute (Abu Dhabi, UAE), as postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA), and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include aerial and multi-robot systems, reinforcement learning, simulation, aerospace, and software engineering.
 
 > [Curriculum vitae][cv]
 
@@ -54,6 +54,7 @@ Jacopo is the lead researcher in machine learning for control at the Technology 
 
 ## Select Publications
 
+- M. Bosello, F. Pinzarrone, S. Kiade, D. Aguiari, Y. Keuter, A. AlShehhi, G. Caminati, K. L. Wong, K. S. Chou, J. Halepota, F. Alneyadi, **J. Panerati**, and G. Pau (2025) *On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas* - arXiv
 - S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, M. Schuck, W. Hoenig, **J. Panerati**, and A. P. Schoellig (2025) *Advancing Reproducibility, Benchmarks, and Education with Remote Sim2real* - IEEE Robotics and Automation Magazine
 - M. Bosello, D. Aguiari, Y. Keuter, E. Pallotta, S. Kiade, G. Caminati, F. Pinzarrone, J. Halepota, **J. Panerati**, and G. Pau (2024) *Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight* - IEEE Robotics and Automation Letters
 - S. Zhou, L. Brunke, A. Tao, A. W. Hall, F. Pizarro Bejarano, **J. Panerati**, A. P. Schoellig (2023) *What is the Impact of Releasing Code with Publications? Statistics from the Machine Learning, Robotics, and Control Communities* - IEEE Control Systems Magazine
