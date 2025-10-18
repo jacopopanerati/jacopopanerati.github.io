@@ -8,7 +8,7 @@ logo: /photo.jpeg
 # google_analytics: [Your Google Analytics tracking ID]
 
 github:
-  site.github.owner_url: https://github.com/JacopoPan
+  owner_url: https://github.com/JacopoPan
 
 plugins:
   - jekyll-redirect-from
