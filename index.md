@@ -12,27 +12,27 @@ Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québe
 
 > **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50m/s (180km/h).
 > 
-> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack)—ROS2 support for PX4/ArduPilot with YOLOv8 for real-world drone autonomy
+> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![GitHub Repo stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat)—ROS2 support for PX4/ArduPilot with YOLOv8 for real-world drone autonomy
 
 ---
 
 > **Autonomous Drone Racing**: human champion-level FPV flight with onboard sensing-only and without ground truth data for fine-tuning.
 > 
-> - [`drone-racing-dataset.git`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
+> - [`drone-racing-dataset.git`](https://github.com/tii-racing/drone-racing-dataset) ![GitHub Repo stars](https://img.shields.io/github/stars/tii-racing/drone-racing-dataset?style=flat)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
 
 
 ## Former Projects
 
 > **Safe Learning Control** ([website](https://www.dynsyslab.org/safe-robot-learning/)). As data- and learning-based methods gain traction, researchers must also understand how to leverage them in real-world robotic systems, where implementing and guaranteeing safety is imperative. To unify the frameworks used in control theory and reinforcement learning research—as well as to facilitate fair comparisons between these fields—we propose a set of physics-based benchmarks with intuitive APIs for safe and robust learning control.
 > 
-> - [`safe-control-gym.git`](https://github.com/utiasDSL/safe-control-gym)—physics-based reinforcement learning environments with symbolic dynamics and constraints ([video](https://www.youtube.com/watch?v=dgni-58OSMs))
+> - [`safe-control-gym.git`](https://github.com/utiasDSL/safe-control-gym) ![GitHub Repo stars](https://img.shields.io/github/stars/utiasDSL/safe-control-gym?style=flat)—physics-based reinforcement learning environments with symbolic dynamics and constraints ([video](https://www.youtube.com/watch?v=dgni-58OSMs))
 
 ---
 
 > [Mitacs Elevate postdoctoral fellowship][el]: **Multi-agent reinforcement learning for decentralized UAV/UGV cooperative exploration**. GDLS-C and the University of Toronto investigated how to effectively use multi-agent reinforcement learning in aerial and field robotics. GDLS-C's goal is to improve situational awareness of ground vehicles by using heterogeneous teams of Unmanned Ground Vehicles (UGVs) and swarms of Unmanned Aerial Vehicles (UAVs). Learning decentralized cooperation strategies can improve the resilience of these multi-robot systems—potentially faced with adversarial environments—and, ultimately, the safety of their human operators.
 > 
-> - [`gym-pybullet-drones.git`](https://github.com/JacopoPan/gym-pybullet-drones)—a physics-based quadcopter control simulation for multi-agent reinforcement learning ([video](https://www.youtube.com/watch?v=VdTsVu1HuYk))
-> - [`gym-marl-reconnaissance.git`](https://github.com/JacopoPan/gym-marl-reconnaissance)—environments for cooperative multi-agent reinforcement learning in heterogeneous robot teams
+> - [`gym-pybullet-drones.git`](https://github.com/utiasDSL/gym-pybullet-drones) ![GitHub Repo stars](https://img.shields.io/github/stars/utiasDSL/gym-pybullet-drones?style=flat)—a physics-based quadcopter control simulation for multi-agent reinforcement learning ([video](https://www.youtube.com/watch?v=VdTsVu1HuYk))
+> - [`gym-marl-reconnaissance.git`](https://github.com/JacopoPan/gym-marl-reconnaissance) ![GitHub Repo stars](https://img.shields.io/github/stars/JacopoPan/gym-marl-reconnaissance?style=flat)—environments for cooperative multi-agent reinforcement learning in heterogeneous robot teams
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JacopoPan/aerial-autonomy-stack,tii-racing/drone-racing-dataset,utiasDSL/safe-control-gym,utiasDSL/gym-pybullet-drones,JacopoPan/gym-marl-reconnaissance&type=Date)](https://www.star-history.com/#JacopoPan/aerial-autonomy-stack&tii-racing/drone-racing-dataset&utiasDSL/safe-control-gym&utiasDSL/gym-pybullet-drones&JacopoPan/gym-marl-reconnaissance&Date&LogScale)
 
@@ -40,7 +40,7 @@ Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québe
 
 > Mitacs Globalink research at the University of Cambridge's [Prorok Laboratory][pl] on **adversarial private flocking**. Privacy is an important facet of defense against adversaries. In this project, we introduced the problem of private flocking. We considered a team of mobile robots flocking in the presence of an adversary who is interested in identifying their leader. We developed a method to generate private flocking controllers that hide the identity of the leader robot. Our results demonstrate that we are able to achieve high flocking performance and simultaneously reduce the risk of revealing the leader.
 > 
-> - [`private_flocking.git`](https://github.com/proroklab/private_flocking)—adversarial learning to conceal leadership in multi-drone flight using AirSim
+> - [`private_flocking.git`](https://github.com/proroklab/private_flocking) ![GitHub Repo stars](https://img.shields.io/github/stars/proroklab/private_flocking?style=flat)—adversarial learning to conceal leadership in multi-drone flight using AirSim
 
 ---
 
