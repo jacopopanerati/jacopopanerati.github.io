@@ -103,7 +103,7 @@ Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québe
 - [Competition Organizer - 2022 International Conference on Intelligent Robots and Systems (IROS)](https://www.dynsyslab.org/iros-2022-safe-robot-learning-competition/) ([codebase](https://github.com/utiasDSL/safe-control-gym/tree/beta-iros-competition))
 - [Workshop Organizer - 2022 International Conference on Robotics and Automation (ICRA)](https://www.dynsyslab.org/releasing-robots-into-the-wild-workshop/)
 - Program Committee Member - 2022 Conference on Learning for Dynamics and Control (L4DC)
-- Program Committee Member - 2022 International Conference on Swarm Intelligence (ANTS)
+- Program Committee Member - International Conference on Swarm Intelligence (ANTS), since 2022
 - Program Committee Member - 2022 International Conference on Autonomous Agents and Multi-agent Systems (AAMAS)
 - Program Committee Member - 2021 Robotics: Science and Systems (RSS) Pioneers Workshop
 - Area Chair - 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
