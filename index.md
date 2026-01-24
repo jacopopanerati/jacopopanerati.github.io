@@ -14,14 +14,14 @@ Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québe
 > 
 > - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![GitHub Repo stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat)—ROS2 support for PX4/ArduPilot with YOLOv8 for real-world drone autonomy
 
----
 
-> **Autonomous Drone Racing**: human champion-level FPV flight with onboard sensing-only and without ground truth data for fine-tuning.
+## Former Projects
+
+> **Autonomous Drone Racing**: human champion-level FPV flight with onboard sensing-only and without ground truth data for fine-tuning ([paper](https://arxiv.org/abs/2510.13644)).
 > 
 > - [`drone-racing-dataset.git`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
 
-
-## Former Projects
+---
 
 > **Safe Learning Control** ([website](https://www.dynsyslab.org/safe-robot-learning/)). As data- and learning-based methods gain traction, researchers must also understand how to leverage them in real-world robotic systems, where implementing and guaranteeing safety is imperative. To unify the frameworks used in control theory and reinforcement learning research—as well as to facilitate fair comparisons between these fields—we propose a set of physics-based benchmarks with intuitive APIs for safe and robust learning control.
 > 
