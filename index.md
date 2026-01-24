@@ -18,7 +18,7 @@ Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québe
 
 > **Autonomous Drone Racing**: human champion-level FPV flight with onboard sensing-only and without ground truth data for fine-tuning.
 > 
-> - [`drone-racing-dataset.git`](https://github.com/tii-racing/drone-racing-dataset) ![GitHub Repo stars](https://img.shields.io/github/stars/tii-racing/drone-racing-dataset?style=flat)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
+> - [`drone-racing-dataset.git`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
 
 
 ## Former Projects
@@ -32,15 +32,13 @@ Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québe
 > [Mitacs Elevate postdoctoral fellowship][el]: **Multi-agent reinforcement learning for decentralized UAV/UGV cooperative exploration**. GDLS-C and the University of Toronto investigated how to effectively use multi-agent reinforcement learning in aerial and field robotics. GDLS-C's goal is to improve situational awareness of ground vehicles by using heterogeneous teams of Unmanned Ground Vehicles (UGVs) and swarms of Unmanned Aerial Vehicles (UAVs). Learning decentralized cooperation strategies can improve the resilience of these multi-robot systems—potentially faced with adversarial environments—and, ultimately, the safety of their human operators.
 > 
 > - [`gym-pybullet-drones.git`](https://github.com/utiasDSL/gym-pybullet-drones) ![GitHub Repo stars](https://img.shields.io/github/stars/utiasDSL/gym-pybullet-drones?style=flat)—a physics-based quadcopter control simulation for multi-agent reinforcement learning ([video](https://www.youtube.com/watch?v=VdTsVu1HuYk))
-> - [`gym-marl-reconnaissance.git`](https://github.com/JacopoPan/gym-marl-reconnaissance) ![GitHub Repo stars](https://img.shields.io/github/stars/JacopoPan/gym-marl-reconnaissance?style=flat)—environments for cooperative multi-agent reinforcement learning in heterogeneous robot teams
-
-[![Star History Chart](https://api.star-history.com/svg?repos=JacopoPan/aerial-autonomy-stack,tii-racing/drone-racing-dataset,utiasDSL/safe-control-gym,utiasDSL/gym-pybullet-drones,JacopoPan/gym-marl-reconnaissance&type=Date)](https://www.star-history.com/#JacopoPan/aerial-autonomy-stack&tii-racing/drone-racing-dataset&utiasDSL/safe-control-gym&utiasDSL/gym-pybullet-drones&JacopoPan/gym-marl-reconnaissance&Date&LogScale)
+> - [`gym-marl-reconnaissance.git`](https://github.com/JacopoPan/gym-marl-reconnaissance)—environments for cooperative multi-agent reinforcement learning in heterogeneous robot teams
 
 ---
 
 > Mitacs Globalink research at the University of Cambridge's [Prorok Laboratory][pl] on **adversarial private flocking**. Privacy is an important facet of defense against adversaries. In this project, we introduced the problem of private flocking. We considered a team of mobile robots flocking in the presence of an adversary who is interested in identifying their leader. We developed a method to generate private flocking controllers that hide the identity of the leader robot. Our results demonstrate that we are able to achieve high flocking performance and simultaneously reduce the risk of revealing the leader.
 > 
-> - [`private_flocking.git`](https://github.com/proroklab/private_flocking) ![GitHub Repo stars](https://img.shields.io/github/stars/proroklab/private_flocking?style=flat)—adversarial learning to conceal leadership in multi-drone flight using AirSim
+> - [`private_flocking.git`](https://github.com/proroklab/private_flocking)—adversarial learning to conceal leadership in multi-drone flight using AirSim
 
 ---
 
@@ -56,7 +54,7 @@ Jacopo is a Research Officer in the Aerospace Research Centre (Montréal, Québe
 
 ## Select Publications
 
-- M. Bosello, F. Pinzarrone, S. Kiade, D. Aguiari, Y. Keuter, A. AlShehhi, G. Caminati, K. L. Wong, K. S. Chou, J. Halepota, F. Alneyadi, **J. Panerati**, and G. Pau (2025) *On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas* - arXiv
+- M. Bosello, F. Pinzarrone, S. Kiade, D. Aguiari, Y. Keuter, A. AlShehhi, G. Caminati, K. L. Wong, K. S. Chou, J. Halepota, F. Alneyadi, **J. Panerati**, and G. Pau (2025) *On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas* - IEEE Robotics and Automation Magazine
 - S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, M. Schuck, W. Hoenig, **J. Panerati**, and A. P. Schoellig (2025) *Advancing Reproducibility, Benchmarks, and Education with Remote Sim2real* - IEEE Robotics and Automation Magazine
 - M. Bosello, D. Aguiari, Y. Keuter, E. Pallotta, S. Kiade, G. Caminati, F. Pinzarrone, J. Halepota, **J. Panerati**, and G. Pau (2024) *Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight* - IEEE Robotics and Automation Letters
 - S. Zhou, L. Brunke, A. Tao, A. W. Hall, F. Pizarro Bejarano, **J. Panerati**, A. P. Schoellig (2023) *What is the Impact of Releasing Code with Publications? Statistics from the Machine Learning, Robotics, and Control Communities* - IEEE Control Systems Magazine
