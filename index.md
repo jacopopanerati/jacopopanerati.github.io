@@ -12,7 +12,7 @@ Jacopo is a Research Officer in the Drone and Flight Autonomy Lab (Montréal, Qu
 
 > **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50m/s (180km/h).
 > 
-> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![GitHub Repo stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat)—ROS2 support for PX4/ArduPilot with YOLOv8 for real-world drone autonomy
+> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![GitHub Repo stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat)—ROS2 support for PX4/ArduPilot with YOLOv8 for real-world drones ([paper](https://arxiv.org/abs/2602.07264))
 
 
 ## Former Projects
@@ -54,6 +54,7 @@ Jacopo is a Research Officer in the Drone and Flight Autonomy Lab (Montréal, Qu
 
 ## Select Publications
 
+- **J. Panerati**, S. Sajjadi, S. Soleymanpour, V. Mehta, and I. Mantegh (2026) *aerial-autonomy-stack—a Faster-than-real-time, Autopilot-agnostic, ROS2 Framework to Simulate and Deploy Perception-based Drones* - arXiv
 - M. Bosello, F. Pinzarrone, S. Kiade, D. Aguiari, Y. Keuter, A. AlShehhi, G. Caminati, K. L. Wong, K. S. Chou, J. Halepota, F. Alneyadi, **J. Panerati**, and G. Pau (2025) *On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas* - IEEE Robotics and Automation Letters
 - S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, M. Schuck, W. Hoenig, **J. Panerati**, and A. P. Schoellig (2025) *Advancing Reproducibility, Benchmarks, and Education with Remote Sim2real* - IEEE Robotics and Automation Magazine
 - M. Bosello, D. Aguiari, Y. Keuter, E. Pallotta, S. Kiade, G. Caminati, F. Pinzarrone, J. Halepota, **J. Panerati**, and G. Pau (2024) *Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight* - IEEE Robotics and Automation Letters
