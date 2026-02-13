@@ -110,9 +110,9 @@ Jacopo is a Research Officer in the Drone and Flight Autonomy Lab (Montréal, Qu
 
 ## Teaching
 
-- At the University of Toronto: lab co-development of "AER1216, Fundamentals of Unmanned Aerial Vehicles Teaching" and "AER1517, Control for Robotics".
+- At the University of Toronto: lab co-development of "AER1216, Fundamentals of Unmanned Aerial Vehicles" and "AER1517, Control for Robotics".
 - At *Polytechnique Montréal*: laboratory assistant and co-development of *INF1600, Architecture des Micro-ordinateurs* and *AER8300, Informatique des Systèmes Spatiaux*.
-- For the International Space University: teaching associate of team project "Entrepreneurial And Innovation Ecosystem For Space" at SSP17 in Cork, Ireland; visiting lecturer of "GPS-denied Navigation with Miniaturized Quadcopters".
+- For the International Space University: teaching associate of team project "Entrepreneurial And Innovation Ecosystem For Space" at SSP17 in Cork, Ireland; visiting lecturer of "GPS-denied Navigation with Miniaturized Quadcopters" at SSP19.
 
 ## Contact Information and Links
 
