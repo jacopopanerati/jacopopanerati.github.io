@@ -12,7 +12,7 @@ Jacopo is a Research Officer in the Drone and Flight Autonomy Lab (Montréal, Qu
 
 > **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50m/s (180km/h).
 > 
-> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![GitHub Repo stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat)—ROS2 support for PX4/ArduPilot with YOLOv8 for real-world drones ([paper](https://arxiv.org/abs/2602.07264))
+> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat) ROS2 support for PX4/ArduPilot with YOLOv8 for real-world drones ([paper](https://arxiv.org/abs/2602.07264))
 
 
 ## Former Projects
@@ -25,13 +25,13 @@ Jacopo is a Research Officer in the Drone and Flight Autonomy Lab (Montréal, Qu
 
 > **Safe Learning Control** ([website](https://www.dynsyslab.org/safe-robot-learning/)). As data- and learning-based methods gain traction, researchers must also understand how to leverage them in real-world robotic systems, where implementing and guaranteeing safety is imperative. To unify the frameworks used in control theory and reinforcement learning research—as well as to facilitate fair comparisons between these fields—we propose a set of physics-based benchmarks with intuitive APIs for safe and robust learning control.
 > 
-> - [`safe-control-gym.git`](https://github.com/utiasDSL/safe-control-gym) ![GitHub Repo stars](https://img.shields.io/github/stars/utiasDSL/safe-control-gym?style=flat)—physics-based reinforcement learning environments with symbolic dynamics and constraints ([video](https://www.youtube.com/watch?v=dgni-58OSMs))
+> - [`safe-control-gym.git`](https://github.com/utiasDSL/safe-control-gym) ![stars](https://img.shields.io/github/stars/utiasDSL/safe-control-gym?style=flat) physics-based reinforcement learning environments with symbolic dynamics and constraints ([video](https://www.youtube.com/watch?v=dgni-58OSMs))
 
 ---
 
 > [Mitacs Elevate postdoctoral fellowship][el]: **Multi-agent reinforcement learning for decentralized UAV/UGV cooperative exploration**. GDLS-C and the University of Toronto investigated how to effectively use multi-agent reinforcement learning in aerial and field robotics. GDLS-C's goal is to improve situational awareness of ground vehicles by using heterogeneous teams of Unmanned Ground Vehicles (UGVs) and swarms of Unmanned Aerial Vehicles (UAVs). Learning decentralized cooperation strategies can improve the resilience of these multi-robot systems—potentially faced with adversarial environments—and, ultimately, the safety of their human operators.
 > 
-> - [`gym-pybullet-drones.git`](https://github.com/utiasDSL/gym-pybullet-drones) ![GitHub Repo stars](https://img.shields.io/github/stars/utiasDSL/gym-pybullet-drones?style=flat)—a physics-based quadcopter control simulation for multi-agent reinforcement learning ([video](https://www.youtube.com/watch?v=VdTsVu1HuYk))
+> - [`gym-pybullet-drones.git`](https://github.com/utiasDSL/gym-pybullet-drones) ![stars](https://img.shields.io/github/stars/utiasDSL/gym-pybullet-drones?style=flat) a physics-based quadcopter control simulation for multi-agent reinforcement learning ([video](https://www.youtube.com/watch?v=VdTsVu1HuYk))
 > - [`gym-marl-reconnaissance.git`](https://github.com/JacopoPan/gym-marl-reconnaissance)—environments for cooperative multi-agent reinforcement learning in heterogeneous robot teams
 
 ---
