@@ -12,7 +12,7 @@ Jacopo is a Research Officer in the Drone and Flight Autonomy Lab (Montréal, Qu
 
 > **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50m/s (180km/h).
 > 
-> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat) ROS2 support for PX4/ArduPilot with YOLOv8 for real-world drones ([paper](https://arxiv.org/abs/2602.07264))
+> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat) ROS2 support for PX4/ArduPilot with YOLO for real-world drones ([paper](https://arxiv.org/abs/2602.07264))
 
 
 ## Former Projects
