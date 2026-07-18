@@ -19,7 +19,7 @@ Jacopo is a **Research Officer in the Drone and Flight Autonomy Lab** (Montréal
 
 > **Drone Swarming**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50+m/s (~200kph).
 
---
+---
 
 > **Autonomous Drone Racing**: human champion-level FPV flight with onboard sensing-only and without ground truth data for fine-tuning ([paper](https://arxiv.org/abs/2510.13644)).
 > 
