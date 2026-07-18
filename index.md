@@ -1,6 +1,6 @@
 ## Biography
 
-Jacopo is a Research Officer in the Drone and Flight Autonomy Lab (Montréal, Québec) of the National Research Council (NRC) Canada's Aerospace Research Centre. Jacopo also worked as lead researcher at the Technology Innovation Institute (Abu Dhabi, UAE), as postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA), and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include aerial and multi-robot systems, reinforcement learning, simulation, aerospace, and software engineering.
+Jacopo is a **Research Officer in the Drone and Flight Autonomy Lab** (Montréal, Québec) of the National Research Council (NRC) Canada's Aerospace Research Centre. Jacopo also worked as lead researcher at the Technology Innovation Institute (Abu Dhabi, UAE), as postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA), and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include aerial autonomy and multi-robot systems, reinforcement learning, pyhsics-based simulation, and software engineering.
 
 > [Google Scholar](https://scholar.google.com/citations?hl=en&user=DzdTvkEAAAAJ)
 
@@ -10,12 +10,16 @@ Jacopo is a Research Officer in the Drone and Flight Autonomy Lab (Montréal, Qu
 
 ## Current Research
 
-> **Aerial Field Robotics**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50m/s (180km/h).
+> **Aerial Autonomy and Field Robotics**:
 > 
-> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat) ROS2 support for PX4/ArduPilot with YOLO for real-world drones ([paper](https://arxiv.org/abs/2602.07264))
+> - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat) ROS2 support for PX4/ArduPilot with YOLO/LiDAR for real-world drones ([paper](https://arxiv.org/abs/2602.07264))
 
 
 ## Former Projects
+
+> **Drone Swarming**: (i) autonomous BVLOS (10+km) formation flight with five fixed-wing drones, (ii) autonomous takeoff-to-landing GNSS-less ISR with three VTOLs, (iii) fast autonomous hexacopter flight at 50+m/s (~200kph).
+
+--
 
 > **Autonomous Drone Racing**: human champion-level FPV flight with onboard sensing-only and without ground truth data for fine-tuning ([paper](https://arxiv.org/abs/2510.13644)).
 > 
@@ -54,7 +58,7 @@ Jacopo is a Research Officer in the Drone and Flight Autonomy Lab (Montréal, Qu
 
 ## Select Publications
 
-- **J. Panerati**, S. Sajjadi, S. Soleymanpour, V. Mehta, and I. Mantegh (2026) *aerial-autonomy-stack—a Faster-than-real-time, Autopilot-agnostic, ROS2 Framework to Simulate and Deploy Perception-based Drones* - arXiv
+- **J. Panerati**, S. Sajjadi, S. Soleymanpour, V. Mehta, and I. Mantegh (2026) *aerial-autonomy-stack—a Faster-than-real-time, Autopilot-agnostic, ROS2 Framework to Simulate and Deploy Perception-based Drones* - Int'l Conference on Unmanned Aircraft Systems
 - M. Bosello, F. Pinzarrone, S. Kiade, D. Aguiari, Y. Keuter, A. AlShehhi, G. Caminati, K. L. Wong, K. S. Chou, J. Halepota, F. Alneyadi, **J. Panerati**, and G. Pau (2025) *On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas* - IEEE Robotics and Automation Letters
 - S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, M. Schuck, W. Hoenig, **J. Panerati**, and A. P. Schoellig (2025) *Advancing Reproducibility, Benchmarks, and Education with Remote Sim2real* - IEEE Robotics and Automation Magazine
 - M. Bosello, D. Aguiari, Y. Keuter, E. Pallotta, S. Kiade, G. Caminati, F. Pinzarrone, J. Halepota, **J. Panerati**, and G. Pau (2024) *Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight* - IEEE Robotics and Automation Letters
