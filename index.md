@@ -1,6 +1,6 @@
 ## Biography
 
-Jacopo is a **Research Officer in the Drone and Flight Autonomy Lab** (Montréal, Québec) of the National Research Council (NRC) Canada's Aerospace Research Centre. Jacopo also worked as lead researcher at the Technology Innovation Institute (Abu Dhabi, UAE), as postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA), and as a research associate at the University of Cambridge (UK). Jacopo’s research interests include aerial autonomy and multi-robot systems, reinforcement learning, pyhsics-based simulation, and software engineering.
+Jacopo (Ph.D., Polytechnique Montréal 2017) is a **Research Officer in the Drone and Flight Autonomy Lab** (Montréal, Québec) of the National Research Council (NRC) Canada's Aerospace Research Centre. Jacopo also worked as lead researcher at the Technology Innovation Institute (Abu Dhabi, UAE), as postdoctoral fellow at the University of Toronto Institute for Aerospace Studies (CA), and as a research associate at the University of Cambridge (UK). Jacopo’s research contributions span aerial autonomy and multi-robot systems, reinforcement learning, pyhsics-based simulation, and software engineering.
 
 > [Google Scholar](https://scholar.google.com/citations?hl=en&user=DzdTvkEAAAAJ)
 
@@ -10,7 +10,7 @@ Jacopo is a **Research Officer in the Drone and Flight Autonomy Lab** (Montréal
 
 ## Current Research
 
-> **Aerial Autonomy and Field Robotics**:
+> **Aerial Autonomy and Field Robotics**: bridging the sim2real gap with hardware-software co-design to support autonomy and advanced, GPU-accelerated perception across multiple airframes and autopilots—a single codebase for faster-than-real-time simulation and field deployment.
 > 
 > - [`aerial-autonomy-stack.git`](https://github.com/JacopoPan/aerial-autonomy-stack) ![stars](https://img.shields.io/github/stars/JacopoPan/aerial-autonomy-stack?style=flat) ROS2 support for PX4/ArduPilot with YOLO/LiDAR for real-world drones ([paper](https://arxiv.org/abs/2602.07264))
 
