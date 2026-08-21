@@ -143,4 +143,4 @@ Jacopo (Ph.D., Polytechnique Montréal 2017) is a **Research Officer in the Dron
 [el]:https://www.mitacs.ca/our-projects/multi-agent-reinforcement-learning-for-decentralized-uav-ugv-cooperative-exploration/
 [rss]:https://sites.google.com/view/rsspioneers2020/participants?authuser=0
 
-[cv]:https://www.dropbox.com/s/xd876ynmh18gf58/cv.pdf?dl=0
+[cv]:https://www.dropbox.com/s/xd876ynmh18gf58/cv.pdf?raw=1
