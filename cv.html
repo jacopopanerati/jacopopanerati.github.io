@@ -1,0 +1,14 @@
+---
+layout: default
+title: Curriculum vitae
+permalink: /cv
+---
+
+<div id="cv" style="height:85vh"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.3.1/pdfobject.min.js"></script>
+<script>
+PDFObject.embed("https://www.dropbox.com/scl/fi/jjqlneios5zvf01mo1yqe/cv.pdf?rlkey=cscyp5ou4oan0b8gt5fc2moo7&raw=1", "#cv", {
+  supportRedirect: true,
+  fallbackLink: "<a href='[url]'>Download the CV (PDF)</a>"
+});
+</script>
