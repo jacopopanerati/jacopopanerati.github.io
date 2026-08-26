@@ -23,7 +23,7 @@ Jacopo (Ph.D., Polytechnique Montréal 2017) is a **Research Officer in the Dron
 
 > **Autonomous Drone Racing**: human champion-level FPV flight with onboard sensing-only and without ground truth data for fine-tuning ([paper](https://arxiv.org/abs/2510.13644)).
 > 
-> - [`drone-racing-dataset.git`](https://github.com/tii-racing/drone-racing-dataset)—a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
+> - [`drone-racing-dataset.git`](https://github.com/tii-racing/drone-racing-dataset) ![stars](https://img.shields.io/github/stars/tii-racing/drone-racing-dataset?style=flat) a fully-annotated, open-design dataset of autonomous and piloted high-speed flight ([video](https://github.com/tii-racing/drone-racing-dataset?tab=readme-ov-file#race-against-the-machine))
 
 ---
 
