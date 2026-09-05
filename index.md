@@ -58,7 +58,9 @@ Jacopo (Ph.D., Polytechnique Montréal 2017) is a **Research Officer in the Dron
 
 ## Select Publications
 
+- S. Sajjadi, S. Soleymanpour, **J. Panerati**, V. Mehta, I. Mantegh, and F. Bourgault (2026) *Ownship UAS-assisted Calibration and Georegistration of Ground Radar--Camera Sensors for Counter-UAS Systems* - Digital Avionics Systems Conference
 - **J. Panerati**, S. Sajjadi, S. Soleymanpour, V. Mehta, and I. Mantegh (2026) *aerial-autonomy-stack—a Faster-than-real-time, Autopilot-agnostic, ROS2 Framework to Simulate and Deploy Perception-based Drones* - Int'l Conference on Unmanned Aircraft Systems
+- S. Sajjadi, **J. Panerati**, S. Soleymanpour, V. Mehta, F. J. Sharifi, and I. Mantegh (2026) *Evidence-Based Landing Site Selection and Vison-Based Landing for UAVs in Unstructured Environments* - Int'l Conference on Unmanned Aircraft Systems
 - M. Bosello, F. Pinzarrone, S. Kiade, D. Aguiari, Y. Keuter, A. AlShehhi, G. Caminati, K. L. Wong, K. S. Chou, J. Halepota, F. Alneyadi, **J. Panerati**, and G. Pau (2025) *On Your Own: Pro-level Autonomous Drone Racing in Uninstrumented Arenas* - IEEE Robotics and Automation Letters
 - S. Teetaert, W. Zhao, A. Loquercio, S. Zhou, L. Brunke, M. Schuck, W. Hoenig, **J. Panerati**, and A. P. Schoellig (2025) *Advancing Reproducibility, Benchmarks, and Education with Remote Sim2real* - IEEE Robotics and Automation Magazine
 - M. Bosello, D. Aguiari, Y. Keuter, E. Pallotta, S. Kiade, G. Caminati, F. Pinzarrone, J. Halepota, **J. Panerati**, and G. Pau (2024) *Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight* - IEEE Robotics and Automation Letters
